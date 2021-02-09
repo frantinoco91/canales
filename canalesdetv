@@ -281,7 +281,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/5JEe5w7p09Xolj5gncKMdaMs-EHXpUM11rkmTiDddbAM4cL36odp0a2q1m3nSC2s4GNMJ9vyM6fD_7FSgc-yJ8N7uHouWceqxhmMW6aE6rdbKakAJlxtEWlAqHxMMguEpoRxoUlqSBezKQ" group-title="Musica",M2OTV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1,RUTV
+#EXTINF:-1 tvg-logo="https://img.discogs.com/aNeN6zemQKWiAogbT6jGFGKaULM=/fit-in/600x378/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/L-898133-1442435430-6281.gif.jpg" group-title="Musica",RUTV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1,Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w265474821_b2028000_sleng.m3u8
