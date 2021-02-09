@@ -31,12 +31,12 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/8.ts
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="LA 2",LA 2 HD
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:-1 tvg-id="ANTENA 3 HD"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/50.ts
-#EXTINF:-1 tvg-id="ANTENA 3 HD"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD opc2
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD opc2
 http://91.126.141.13:1935/live/11/playlist.m3u8
-#EXTINF:-1 tvg-id="LA SEXTA HD"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Generalistas" tvg-name="LA SEXTA HD",La Sexta HD
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Generalistas" tvg-name="LA SEXTA HD",La Sexta HD
 http://91.126.141.13:1935/live/21/playlist.m3u8
 #EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="Generalistas" tvg-name="24 HORAS",24 horas
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
@@ -72,82 +72,82 @@ http://polpeta.dynu.com:14444/live/kingiptv8756uihlg/king6959fk/1052.ts
 #EXTINF:-1 tvg-id="M.CineDocRoll" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" group-title="Cine" tvg-name="M.CineDocRoll",M+ CINE DOC&ROLL opc4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv.myserver.tv:8000/live/bandookk.khan1/999315/2494.ts
-#EXTINF:-1,M+ Series HD
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="Series" tvg-name="M. SERIES HD",M+ Series HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/21.ts
-#EXTINF:-1,M+ Series HD opc2
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="Series" tvg-name="M. SERIES HD",M+ Series HD opc2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv.myserver.tv:8000/live/bandookk.khan1/999315/2453.ts
-#EXTINF:-1,M+ Series HD opc3
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="Series" tvg-name="M. SERIES HD",M+ Series HD opc3
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/525.m3u8
-#EXTINF:-1,HOLLYWOOD HD
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Cine" tvg-name="HOLLYWOOD HD",HOLLYWOOD HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/3.ts
-#EXTINF:-1,TCM HD
+#EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="Cine" tvg-name="TCM HD",TCM HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/6.ts
-#EXTINF:-1,TCM HD opc2
+#EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="Cine" tvg-name="TCM HD",TCM HD opc2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://vip.fullhd.ws:8000/live/TS0VBARHMUWq/g71Sn9wzQ8061/35874.ts
-#EXTINF:-1,TNT HD
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Cine" tvg-name="TNT HD",TNT HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/16.ts
-#EXTINF:-1,TNT HD opc2
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Cine" tvg-name="TNT HD",TNT HD opc2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://sky4.ddns.net:8000/live/haydar1z/haydar1z/303.ts
-#EXTINF:-1,TNT HD opc3
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Cine" tvg-name="TNT HD",TNT HD opc3
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv.csserv.co:8000/live/bandookk.khan1/999315/2280.ts
-#EXTINF:-1,#0
+#EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="Cine" tvg-name="#0 HD",#0
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/44.ts
-#EXTINF:-1,#0 opc2
+#EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="Cine" tvg-name="#0 HD",#0 opc2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv.myserver.tv:8000/live/bandookk.khan1/999315/2105.ts
-#EXTINF:-1,#0 opc3
+#EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="Cine" tvg-name="#0 HD",#0 opc3
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv.csserv.co:8000/live/bandookk.khan1/999315/2105.ts
-#EXTINF:-1,FOX HD
+#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX HD",FOX HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/20.ts
-#EXTINF:-1,FOX HD opc2
+#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX HD",FOX HD opc2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv.csserv.co:8000/live/bandookk.khan1/999315/2454.ts
-#EXTINF:-1,FOX HD opc3
+#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX HD",FOX HD opc3
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv.myserver.tv:8000/live/bandookk.khan1/999315/2454.ts
-#EXTINF:-1,AMC HD
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Series" tvg-name="AMC HD",AMC HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/47.ts
-#EXTINF:-1,AMC HD opc2
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Cine" tvg-name="AMC HD",AMC HD opc2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv.myserver.tv:8000/live/bandookk.khan1/999315/2742.ts
-#EXTINF:-1,AXN HD
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="Series" tvg-name="AXN HD",AXN HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts
-#EXTINF:-1,AXN WHITE HD
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Series" tvg-name="AXN WHITE HD",AXN WHITE HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/18.ts
-#EXTINF:-1,AXN WHITE HD opc2
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Series" tvg-name="AXN WHITE HD",AXN WHITE HD opc2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv.myserver.tv:8000/live/bandookk.khan1/999315/8848.ts
-#EXTINF:-1,AXN WHITE
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Series" tvg-name="AXN WHITE HD",AXN WHITE
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv.myserver.tv:8000/live/bandookk.khan1/999315/970.ts
-#EXTINF:-1,COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="Series" tvg-name="COMEDYCENTRAL HD",COMEDY CENTRAL HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/45.ts
-#EXTINF:-1,SYFY HD
+#EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Series" tvg-name="SYFY HD",SYFY HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/17.ts
-#EXTINF:-1,CALLE 13 HD
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Cine" tvg-name="CALLE 13 HD",CALLE 13 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/39.ts
-#EXTINF:-1,COSMO hd
+#EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="Series" tvg-name="COSMO HD",COSMO hd
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
-#EXTINF:-1,COSMO hd opc2
+#EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="Series" tvg-name="COSMO HD",COSMO hd opc2
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/15884.m3u8
-#EXTINF:-1,COSMO hd opc3
+#EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="Series" tvg-name="COSMO HD",COSMO hd opc3
 http://91.126.141.201:1935/live/cosmoHD/.m3u8
 #EXTINF:-1,TOROS HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
