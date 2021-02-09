@@ -38,38 +38,38 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/50.ts
 http://91.126.141.13:1935/live/11/playlist.m3u8
 #EXTINF:-1 tvg-id="LA SEXTA HD"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Generalistas" tvg-name="LA SEXTA HD",La Sexta HD
 http://91.126.141.13:1935/live/21/playlist.m3u8
-#EXTINF:-1 tvg-id="24 HORAS"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="Generalistas" tvg-name="24 HORAS",24 horas
+#EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="Generalistas" tvg-name="24 HORAS",24 horas
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
-#EXTINF:-1 tvg-id="TRECE"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="Generalistas" tvg-name="TRECE",TRECE TV
+#EXTINF:-1 tvg-id="TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="Generalistas" tvg-name="TRECE",TRECE TV
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DISNEY CH HD"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="Infantil" tvg-name="DISNEY CH HD",Disney +
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="Infantil" tvg-name="DISNEY CH HD",Disney +
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/15800.m3u8
-#EXTINF:-1,M+ ESTRENOS HD
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine" tvg-name="M.ESTRENOS HD",M+ ESTRENOS HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/43.ts
-#EXTINF:-1,M+ Accion hd
+#EXTINF:-1 tvg-id="M. ACCION HD"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine" tvg-name="M. ACCION HD",M+ Accion hd
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts
-#EXTINF:-1,M+ Accion hd opc2
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine" tvg-name="M. ACCION HD",M+ Accion hd opc2
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/527.m3u8
-#EXTINF:-1,M+ COMEDIA HD
+#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Cine" tvg-name="M.COMEDIA HD",M+ COMEDIA HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/40.ts
-#EXTINF:-1,M+ Drama hd
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Cine" tvg-name="M. DRAMA HD",M+ Drama hd
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/42.ts
-#EXTINF:-1,M+ Drama hd opc2
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Cine" tvg-name="M. DRAMA HD",M+ Drama hd opc2
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/11735.m3u8
-#EXTINF:-1,M+ CINE DOC&ROLL
+#EXTINF:-1 tvg-id="M.CineDocRoll" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" group-title="Cine" tvg-name="M.CineDocRoll",M+ CINE DOC&ROLL
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts
-#EXTINF:-1,M+ CINE DOC&ROLL opc2
+#EXTINF:-1 tvg-id="M.CineDocRoll" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" group-title="Cine" tvg-name="M.CineDocRoll",M+ CINE DOC&ROLL opc2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://ip.dnsfor.me:8000/live/bandookk.khan1/999315/2494.ts
-#EXTINF:-1,M+ CINE DOC&ROLL opc3
+#EXTINF:-1 tvg-id="M.CineDocRoll" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" group-title="Cine" tvg-name="M.CineDocRoll",M+ CINE DOC&ROLL opc3
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://polpeta.dynu.com:14444/live/kingiptv8756uihlg/king6959fk/1052.ts
-#EXTINF:-1,M+ CINE DOC&ROLL opc4
+#EXTINF:-1 tvg-id="M.CineDocRoll" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" group-title="Cine" tvg-name="M.CineDocRoll",M+ CINE DOC&ROLL opc4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv.myserver.tv:8000/live/bandookk.khan1/999315/2494.ts
 #EXTINF:-1,M+ Series HD
