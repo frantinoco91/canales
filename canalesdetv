@@ -50,6 +50,8 @@ http://91.126.141.13:1935/live/21/playlist.m3u8
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-id="TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="Generalistas" tvg-name="TRECE",TRECE TV
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="El Toro TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV"
+https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="DISNEY CH HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="Infantil" tvg-name="DISNEY CH HD",Disney +
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/15800.m3u8
 #EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine" tvg-name="M.ESTRENOS HD",M+ ESTRENOS HD
