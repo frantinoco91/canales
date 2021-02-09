@@ -347,7 +347,7 @@ http://188.35.9.5:10007/stolen/246r/parasite.install
 http://204.45.182.172:26789/i/ghjnvq5o/8c855fdf/index.m3u8
 #EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Adultos",Sōng shì 2
 http://204.45.182.172:26789/i/ghjnvq5o/984fa1vb/index.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Adultos",Viki
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Adultos",Viki-X
 http://112.148.183.161:9981/stream/channelid/488704961
 #EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Adultos",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
