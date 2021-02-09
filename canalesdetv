@@ -222,62 +222,62 @@ http://pro.leaderiptv.com:18600/live/reza1977b/redhatiptv2020SKYPE/3990.ts
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/35.ts
 #EXTINF:-1 tvg-id="GOL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="Deportes" tvg-name="GOL HD",GOL Tv opc2
 http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="Documentales" tvg-name="NAT GEO HD",NATIONAL GEOGRAPHIC HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/26.ts
-#EXTINF:-1,NAT GEO WILD HD
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Documentales" tvg-name="NAT GEO WILD HD",NAT GEO WILD HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/25.ts
-#EXTINF:-1,CAZA Y PESCA HD
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="Documentales" tvg-name="CAZAyPESCA HD",CAZA Y PESCA HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/22.ts
-#EXTINF:-1,Cazavision
+#EXTINF:-1 tvg-id="Cazavision" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_9ea0ef4ad7b17c62e5597a68d.png" group-title="Documentales" tvg-name="Cazavision",Cazavision
 https://cdn039.fractalmedia.es/adaptive_8f32/caz_es.m3u8
-#EXTINF:-1,CRIME & INVESTIGATION
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Documentales" tvg-name="CRIMEN+INVES",CRIME & INVESTIGATION
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/48.ts
-#EXTINF:-1,VIAJAR HD
+#EXTINF:-1 tvg-id="VIAJAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VJR.png" group-title="Documentales" tvg-name="VIAJAR HD",VIAJAR HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/7.ts
-#EXTINF:-1,VIAJAR
+#EXTINF:-1 tvg-id="VIAJAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VJR.png" group-title="Documentales" tvg-name="VIAJAR HD",VIAJAR
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://polpeta.dynu.com:14444/live/kingiptv8756uihlg/king6959fk/1089.ts
-#EXTINF:-1,Disney JR
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="Infantil" tvg-name="DISNEY JR",Disney JR
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/12628.m3u8
-#EXTINF:-1,Clan sd
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="Infantil" tvg-name="CLAN  TVE",Clan sd
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
-#EXTINF:-1,BLAZE
+#EXTINF:-1 tvg-id="BLAZE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="Documentales" tvg-name="BLAZE",BLAZE
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/4.ts
-#EXTINF:-1,FDF
+#EXTINF:-1 tvg-id="FDF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="Generalistas" tvg-name="FDF",FDF
 http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
-#EXTINF:-1,CANAL COCINA
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Generalistas" tvg-name="CANAL COCINA",CANAL COCINA
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/15.ts
-#EXTINF:-1,Historia
+#EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="Documentales" tvg-name="HISTORIA",Historia
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/23.ts
-#EXTINF:-1,Historia opc2
+#EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="Documentales" tvg-name="HISTORIA",Historia opc2
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/10843.m3u8
-#EXTINF:-1,TEN
+#EXTINF:-1 tvg-id="Ten" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" group-title="Generalistas" tvg-name="TEN",TEN
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
-#EXTINF:-1,DMAX
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="Documentales" tvg-name="DMAX",DMAX
 http://91.126.141.12:1935/live/discoverymax/chunklist_w1243729103.m3u8
-#EXTINF:-1,DMAX opc2
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="Documentales" tvg-name="DMAX",DMAX opc2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/24.ts
-#EXTINF:-1,DMAX opc3
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="Documentales" tvg-name="DMAX",DMAX opc3
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/12173.m3u8
-#EXTINF:-1,DMAX opc4
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="Documentales" tvg-name="DMAX",DMAX opc4
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
-#EXTINF:-1,MTV SPAIN
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title=";Musica" tvg-name="MTV ESPAÑA",MTV SPAIN
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/14.ts
-#EXTINF:-1,Mtmad
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/11/03/NZSCufOaaYWMHg2Z9soic6.jpg" group-title=";Musica",Mtmad
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-#EXTINF:-1,Redbull TV
+#EXTINF:-1 tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_105,y_0,h_814,w_905/c_fill,w_860,h_782/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv" group-title=";Musica",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,MTV sd latino
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png" group-title=";Musica",MTV sd latino
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1,M2OTV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
