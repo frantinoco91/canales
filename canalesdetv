@@ -285,7 +285,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_poster.png?3" group-title="Musica",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w265474821_b2028000_sleng.m3u8
-#EXTINF:-1,Vip Big Ass
+#EXTINF:-1 group-title="Adultos",Vip Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
 #EXTINF:-1,Vip Big Dick
 http://cdn.adultiptv.net/bigdick.m3u8
