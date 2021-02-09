@@ -29,20 +29,20 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/9.ts
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/8.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1 HD
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-#EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="LA 2",LA 2
+#EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="LA 2",LA 2 HD
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:-1,ANTENA 3 HD
+#EXTINF:-1 tvg-id="ANTENA 3 HD"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/50.ts
-#EXTINF:-1,ANTENA 3 HD opc2
+#EXTINF:-1 tvg-id="ANTENA 3 HD"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD opc2
 http://91.126.141.13:1935/live/11/playlist.m3u8
-#EXTINF:-1,La Sexta HD
+#EXTINF:-1 tvg-id="LA SEXTA HD"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Generalistas" tvg-name="LA SEXTA HD",La Sexta HD
 http://91.126.141.13:1935/live/21/playlist.m3u8
-#EXTINF:-1,24 horas
+#EXTINF:-1 tvg-id="24 HORAS"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="Generalistas" tvg-name="24 HORAS",24 horas
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
-#EXTINF:-1,TRECE TV
+#EXTINF:-1 tvg-id="TRECE"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="Generalistas" tvg-name="TRECE",TRECE TV
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-#EXTINF:-1,Disney +
+#EXTINF:-1 tvg-id="DISNEY CH HD"" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="Infantil" tvg-name="DISNEY CH HD",Disney +
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/15800.m3u8
 #EXTINF:-1,M+ ESTRENOS HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
