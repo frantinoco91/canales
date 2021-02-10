@@ -222,9 +222,6 @@ https://35pvp8e5d9vrwzre.ezcdn462.net:8443/hls/cqj8ghb6kw8wjnp.m3u8?s=oGZwODZMVF
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" group-title="Deportes" tvg-name="DAZN 1",DAZN 1 opc2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 https://35pvp8e5d9vrwzre.ezcdn462.net:8443/hls/cqj8ghb6kw8wjnp.m3u8?s=oGZwODZMVFglwKI40Ayh-g&e=1612984102
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" group-title="Deportes" tvg-name="DAZN 1",DAZN 1 op31
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-https://35pvp8e5d9vrwzre.ezcdn462.net:8443/hls/cqj8ghb6kw8wjnp.m3u8?s=oGZwODZMVFglwKI40Ayh-g&e=1612984102
 #EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" group-title="Deportes" tvg-name="DAZN 2",DAZN 2
 #EXTVLCOPT:http-user-agent="", "url": "https://adictosaldeporte.com/TV/deportes/dazn/", (Linux;Android 10) ExoPlayerLib/2.10.6
 https://35pvp8e5d9vrwzre.ezcdn462.net:8443/hls/uv0wnog8.m3u8?s=viOZQujl070-TEako_Ueog&e=1612984486
