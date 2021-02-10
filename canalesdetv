@@ -82,8 +82,11 @@ http://polpeta.dynu.com:14444/live/kingiptv8756uihlg/king6959fk/1052.ts
 #EXTINF:-1 tvg-id="M.CineDocRoll" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" group-title="Cine" tvg-name="M.CineDocRoll",M+ CINE DOC&ROLL opc4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv.myserver.tv:8000/live/bandookk.khan1/999315/2494.ts
-#EXTINF:-1 tvg-id="Pluto TV Teen Stars",tvg-logo="https://images.pluto.tv/channels/60016a60a8e3520008e0d331/colorLogoPNG.png", group-title="Series" tvg-name="Pluto TV Teen Stars",Pluto TV Teen Stars
+#EXTINF:-1 tvg-id="Pluto TV Teen Stars", tvg-logo="https://images.pluto.tv/channels/60016a60a8e3520008e0d331/colorLogoPNG.png", group-title="Series" tvg-name="Pluto TV Teen Stars",Pluto TV Teen Stars
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false",
+#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
+#EXTINF:-1 tvg-id="Pluto TV Series Comedia", tvg-logo="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png", group-title="Series" tvg-name="Pluto TV Series Comedia",Pluto TV Series Comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 #EXTINF:-1 tvg-id="M. SERIES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="Series" tvg-name="M. SERIES HD",M+ Series HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
