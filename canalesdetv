@@ -1,5 +1,5 @@
 #EXTM3U CANALES DE TV
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/frantinoco91/canales/fb97ca785bb05e846c011eeaa914f06091b8eef5/guia.xml"
 #EXTINF:-1 tvg-id="TQ1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="Alquiler" tvg-name="Alquiler 1",ALQUILER 1
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://vip.fullhd.ws:8000/live/TS0VBARHMUWq/g71Sn9wzQ8061/35910.ts
