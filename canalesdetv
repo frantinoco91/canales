@@ -226,10 +226,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abe3ffcd6590007
 #EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/29.ts
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" group-title="Deportes" tvg-name="DAZN 1",DAZN 1 DE
-http://de3.kineskop.tv/site2/1111_~STA239944_a11f968ff1e3765c_1612991740_300.m3u8
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" group-title="Deportes" tvg-name="DAZN 2",DAZN 2 DE
-http://de3.kineskop.tv/site2/1112_~STA802693_89734cf890c32b42_1612992135_300.m3u8
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga hd
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts
