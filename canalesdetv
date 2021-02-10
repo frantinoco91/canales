@@ -48,8 +48,12 @@ http://lampfal.ddns.net:8080/Enrike/Okundia/18497
 http://91.126.141.13:1935/live/21/playlist.m3u8
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="Generalistas" tvg-name="NEOX",NEOX
 http://lampfal.ddns.net:8080/Enrike/Okundia/18598
+#EXTINF:-1 tvg-id="NEOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="Generalistas" tvg-name="NEOX",NEOX opc2
+https://cdn2.interlibre.net/hls/153/index.m3u8
 #EXTINF:-1 tvg-id="NOVA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="Generalistas" tvg-name="NOVA",NOVA
 http://lampfal.ddns.net:8080/Enrike/Okundia/18597
+#EXTINF:-1 tvg-id="NOVA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="Generalistas" tvg-name="NOVA",NOVA opc2
+https://cdn2.interlibre.net/hls/154/index.m3u8
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY
 http://lampfal.ddns.net:8080/Enrike/Okundia/18605
 #EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="Generalistas" tvg-name="24 HORAS",24 horas
