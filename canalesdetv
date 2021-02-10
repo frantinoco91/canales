@@ -46,6 +46,12 @@ http://lampfal.ddns.net:8080/Enrike/Okundia/18496
 http://lampfal.ddns.net:8080/Enrike/Okundia/18497
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Generalistas" tvg-name="LA SEXTA HD",La Sexta HD
 http://91.126.141.13:1935/live/21/playlist.m3u8
+#EXTINF:-1 tvg-id="NEOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="Generalistas" tvg-name="NEOX",NEOX
+https://cdn2.interlibre.net/hls/153/index.m3u8
+#EXTINF:-1 tvg-id="NOVA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="Generalistas" tvg-name="NOVA",NOVA
+https://cdn2.interlibre.net/hls/154/index.m3u8
+#EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY
+https://www.mundoplus.tv/img/308107b2b599fd4dd5ca2d4cb3c50d5f
 #EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="Generalistas" tvg-name="24 HORAS",24 horas
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-id="TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="Generalistas" tvg-name="TRECE",TRECE TV
