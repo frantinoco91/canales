@@ -239,6 +239,8 @@ https://mitele.lookplay.ml/video/comedy_central/index.m3u8
 #EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Series" tvg-name="SYFY HD",SYFY HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/17.ts
+#EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Series" tvg-name="SYFY HD",SYFY
+https://mitele.lookplay.ml/video/syfy/index.m3u8
 #EXTINF:-1 tvg-id="CALLE 13 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Cine" tvg-name="CALLE 13 HD",CALLE 13 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/39.ts
