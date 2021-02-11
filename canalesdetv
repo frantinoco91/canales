@@ -121,6 +121,8 @@ https://mitele.lookplay.ml/video/movistar_crimen/index.m3u8
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/42.ts
 #EXTINF:-1 tvg-id="M. DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Cine" tvg-name="M. DRAMA HD",M+ Drama hd opc2
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/11735.m3u8
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Cine" tvg-name="M. DRAMA HD",M+ Drama
+https://mitele.lookplay.ml/video/movistar_drama/index.m3u8
 #EXTINF:-1 tvg-id="M.CineDocRoll" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" group-title="Cine" tvg-name="M.CineDocRoll",M+ CINE DOC&ROLL
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts
