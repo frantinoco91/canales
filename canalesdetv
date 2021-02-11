@@ -45,6 +45,8 @@ https://mitele.lookplay.ml/video/la_2/index.m3u8
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/50.ts
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD opc2
 http://91.126.141.13:1935/live/11/playlist.m3u8
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3
+http://91.126.141.13:1935/live/11/playlist.m3u8
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Generalistas" tvg-name="CUATRO HD",CUATRO
 http://lampfal.ddns.net:8080/Enrike/Okundia/18494
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Generalistas" tvg-name="CUATRO HD",CUATRO opc2
