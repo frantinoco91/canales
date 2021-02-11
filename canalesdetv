@@ -101,6 +101,8 @@ http://asiantv4you.com/live/Bandook/onMmCEPoxr/527.m3u8
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Cine" tvg-name="M.COMEDIA HD",M+ COMEDIA HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/40.ts
+#EXTINF:-1 tvg-id="M.CRIMEN HD" tvg-logo="https://i2.wp.com/raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/picon_Movistar_Crimen.png?resize=440%2C264&ssl=1" group-title="Cine" tvg-name="M.CRIMEN HD",M+ CRIMEN
+https://mitele.lookplay.ml/video/movistar_crimen/index.m3u8
 #EXTINF:-1 tvg-id="M. DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Cine" tvg-name="M. DRAMA HD",M+ Drama hd
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/42.ts
