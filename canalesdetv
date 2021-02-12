@@ -86,6 +86,8 @@ http://lampfal.ddns.net:8080/Enrike/Okundia/18597
 http://lampfal.ddns.net:8080/OZdani/Aluiz/18597
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY
 http://lampfal.ddns.net:8080/Enrike/Okundia/18605
+#EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY opc2
+https://mitele.lookplay.ml/video/divinity/index.m3u8
 #EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="Generalistas" tvg-name="24 HORAS",24 horas
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-id="TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="Generalistas" tvg-name="TRECE",TRECE TV
