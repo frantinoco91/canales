@@ -72,7 +72,7 @@ https://mitele.lookplay.ml/video/la_sexta/index.m3u8
 http://91.126.141.13:1935/live/101/playlist.m3u8
 #EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="https://mma.prnewswire.com/media/323322/1498622_logo_atreseries_Logo.jpg?p=facebook" group-title="Generalistas" tvg-name="Atreseries HD",Atreseries
 https://mitele.lookplay.ml/video/atreseries/index.m3u8
-#EXTINF:-1 tvg-id="Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg" group-title="Generalistas" tvg-name="Energy",Energy
+#EXTINF:-1 tvg-id="Energy" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="Generalistas" tvg-name="Energy",Energy
 https://mitele.lookplay.ml/video/energy/index.m3u8
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="Generalistas" tvg-name="NEOX",NEOX
 http://lampfal.ddns.net:8080/Enrike/Okundia/18598
