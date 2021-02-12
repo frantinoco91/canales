@@ -448,6 +448,8 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/7.ts
 #EXTINF:-1 tvg-id="VIAJAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VJR.png" group-title="Documentales" tvg-name="VIAJAR HD",VIAJAR
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://polpeta.dynu.com:14444/live/kingiptv8756uihlg/king6959fk/1089.ts
+#EXTINF:-1 tvg-id="VIAJAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VJR.png" group-title="Documentales" tvg-name="VIAJAR HD",VIAJAR ocp2 
+https://mitele.lookplay.ml/video/viajar/index.m3u8
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="Infantil" tvg-name="DISNEY JR",Disney JR
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/12628.m3u8
 #EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="Infantil" tvg-name="CLAN  TVE",Clan sd
