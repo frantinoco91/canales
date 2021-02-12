@@ -88,6 +88,8 @@ http://lampfal.ddns.net:8080/OZdani/Aluiz/18597
 https://mitele.lookplay.ml/video/nova/index.m3u8
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="Generalistas" tvg-name="MEGA",MEGA
 https://mitele.lookplay.ml/video/mega/index.m3u8
+#EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="Generalistas" tvg-name="BE MAD",BE MAD
+https://mitele.lookplay.ml/video/be_mad/index.m3u8
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY
 http://lampfal.ddns.net:8080/Enrike/Okundia/18605
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY opc2
