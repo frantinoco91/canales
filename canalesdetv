@@ -90,6 +90,8 @@ http://lampfal.ddns.net:8080/Enrike/Okundia/18605
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-id="TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="Generalistas" tvg-name="TRECE",TRECE TV
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="Generalistas" tvg-name="Paramount Channel",Paramount Channel
+https://mitele.lookplay.ml/video/paramount_channel/index.m3u8
 #EXTINF:-1 tvg-id="Intereconomia TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/INTECO.png" group-title="Generalistas" tvg-name="INTERECONOMIA",El Toro TV
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="DISNEY CH HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="Infantil" tvg-name="DISNEY CH HD",Disney +
