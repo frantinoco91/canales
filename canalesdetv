@@ -384,6 +384,8 @@ https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
 https://rtvelivestream-lvlt.rtve.es/tdp_dvr_4000.m3u8
 #EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE FHD",Teledeporte hd opc4
 http://91.126.141.13:1935/live/91/playlist.m3u8
+#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE FHD",Teledeporte
+https://mitele.lookplay.ml/video/teledeporte/index.m3u8
 #EXTINF:-1 tvg-id="BARCA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="Deportes" tvg-name="BARCA TV",Barca Tv
 http://91.126.138.142:1935/live/smil:barza.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="Deportes" tvg-name="R. MADRID TV",Real Madrid TV
