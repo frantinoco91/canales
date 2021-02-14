@@ -33,6 +33,9 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/8.ts
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1 HD opc2
 http://91.126.141.13:1935/live/41/playlist.m3u8
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1 HD opc3
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/7d95b804dddbda6.m3u
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1
 https://mitele.lookplay.ml/video/la_1/index.m3u8
 #EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="LA 2",LA 2 HD
