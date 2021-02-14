@@ -248,6 +248,9 @@ http://iptv.csserv.co:8000/live/bandookk.khan1/999315/2454.ts
 http://iptv.myserver.tv:8000/live/bandookk.khan1/999315/2454.ts
 #EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX HD",FOX HD opc4
 https://mitele.lookplay.ml/video/fox/index.m3u8
+#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX HD",FOX HD opc5
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/1870aa62f6a590d.m3u
 #EXTINF:-1 tvg-id="FOX LIFE HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="Series" tvg-name="FOX LIFE HD",FOX LIFE
 https://mitele.lookplay.ml/video/fox_life/index.m3u8
 #EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Cine" tvg-name="AMC HD",AMC HD
