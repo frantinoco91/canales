@@ -319,6 +319,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8588734f80008
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/nba-tv-logo.png" group-title="Deportes" tvg-name="NBA TV",NBA TV
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="MLB Network: Intentional Talk" tvg-logo="https://i.imgur.com/oDOpMph.png" group-title="Deportes" tvg-name="MLB Network",MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 #EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
