@@ -413,13 +413,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a0500007
 #EXTINF:-1 tvg-id="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG.png" group-title="Infantil" tvg-name="Pluto TV Junior",Pluto TV Junior
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-#EXTINF:-1 tvg-id="ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="Documentales" tvg-name="ODISEA",ODISEA
-https://mitele.lookplay.ml/video/odisea/index.m3u8
 #EXTINF:-1 tvg-id="BLAZE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="Documentales" tvg-name="BLAZE",BLAZE
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/4.ts
-#EXTINF:-1 tvg-id="BLAZE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="Documentales" tvg-name="BLAZE",BLAZE opc2
-https://mitele.lookplay.ml/video/blaze/index.m3u8
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="Generalistas" tvg-name="FDF",FDF
 http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="Generalistas" tvg-name="FDF",FDF opc2
@@ -431,8 +427,6 @@ https://mitele.lookplay.ml/video/dkiss/index.m3u8
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/15.ts
-#EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA opc2
-https://mitele.lookplay.ml/video/canal_cocina/index.m3u8
 #EXTINF:-1 tvg-id="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Documentales" tvg-name="Pluto TV Cocina",Pluto TV Cocina
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
@@ -442,8 +436,6 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/23.ts
 #EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="Documentales" tvg-name="HISTORIA",Historia opc2
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/10843.m3u8
 #EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="Documentales" tvg-name="HISTORIA",Historia opc3
-https://mitele.lookplay.ml/video/historia/index.m3u8
-#EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="Documentales" tvg-name="HISTORIA",Historia opc4
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/fa4c00adaf3e477.m3u
 #EXTINF:-1 tvg-id="Ten" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" group-title="Generalistas" tvg-name="TEN",TEN
@@ -459,8 +451,6 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/24.ts
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/12173.m3u8
 #EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="Documentales" tvg-name="DMAX",DMAX opc4
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="Documentales" tvg-name="DMAX",DMAX opc5
-https://mitele.lookplay.ml/video/dmax/index.m3u8
 #EXTINF:-1 tvg-id="Los nuevos detectives" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Documentales" tvg-name="Los nuevos detectives",Los nuevos detectives
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
