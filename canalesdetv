@@ -263,16 +263,13 @@ http://bb123.pro:1453/live/kingdiablo/x7Hf1psD4R/1734.ts
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6dde2691a4fabbb.m3u
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga hd opc5
-#EXTVLCOPT:http-user-agent=stream
-http://matiasstornini00.shortcm.li:80/shio1.m3u8
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga
 http://asiantv4you.com/live/Bandook/onMmCEPoxr/529.m3u8
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga opc2
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga
 https://mitele.lookplay.ml/video/movistar_laliga/index.m3u8
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga opc3
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga opc2
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/60db5d8cba015b9.m3u
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga opc4
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga opc3
 #EXTVLCOPT:http-user-agent=stream
 https://hn1.gt-app.com/hls/iBarVSrm15.m3u8
 #EXTINF:-1 tvg-id="M. LaLiga HD 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="Deportes" tvg-name="M. LaLiga HD 1",M+ Liga 1
