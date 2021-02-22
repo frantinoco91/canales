@@ -460,8 +460,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acbed25948a0007
 #EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="Musica" tvg-name="MTV ESPAÑA",MTV SPAIN
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/14.ts
-#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="Musica" tvg-name="MTV ESPAÑA",MTV SPAIN opc2
-https://mitele.lookplay.ml/video/mtv/index.m3u8
 #EXTINF:-1 tvg-id="IGN" tvg-logo="https://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/colorLogoPNG.png" group-title="Entretenimiento",IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
@@ -540,8 +538,6 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8
 #EXTINF:-1,,tvg-logo="https://graph.facebook.com/portalfoxmixtv/picture?width=200&height=200" group-title="Musica",Portal Foxmix Colombia
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vidmovin.com/wp-content/uploads/2020/12/vivid_tv_europe_us.jpg" group-title="Adultos",VIVID TV
-https://mitele.lookplay.ml/video/playboy/index.m3u8
 #EXTINF:-1 tvg-logo="http://adultiptv.net/wp-content/uploads/2019/06/56a581cbeb740da77b96ed53c32b-1630037.jpg" group-title="Adultos",Vip Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
 #EXTINF:-1 tvg-logo="http://adultiptv.net/wp-content/uploads/2019/06/sexy_feet_fur_fireplace_breast_skin_coat_butt-892456.jpg" group-title="Adultos",Vip Big Dick
@@ -576,8 +572,6 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" group-title="Adultos",Miami TV Latino
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1 tvg-logo="https://satkurier.pl/uploads/67042.jpg" group-title="Adultos",Privé TV
-http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Offizielles_VISIT-X_Logo.jpg/200px-Offizielles_VISIT-X_Logo.jpg" group-title="Adultos",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://adultiptv.net/wp-content/uploads/2019/06/3d354aa3d88c1370b5069a4c0659-1545111.jpg" group-title="Adultos",Vip Teen
