@@ -346,7 +346,7 @@ http://pro.leaderiptv.com:18600/live/reza1977b/redhatiptv2020SKYPE/3990.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/200px-Moto_Gp_logo.svg.png" group-title="Deportes",MOTOGP opc3
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/ce916bfb15d43f7.m3u
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/DAZN1.png" group-title="Deportes" tvg-name="DAZN 1 HD",DAZN 1 HD
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="Deportes" tvg-name="DAZN 1 HD",DAZN 1 HD
 http://dreamtv.to:2082/ozil_436232/UR6QYdWB7j/21044
 #EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="Deportes" tvg-name="DAZN 2 HD",DAZN 2 HD
 http://dreamtv.to:2082/ozil_436232/UR6QYdWB7j/65000
