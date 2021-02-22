@@ -107,6 +107,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007
 #EXTINF:-1 tvg-id="Sin tetas no hay paraiso", tvg-logo="https://images.pluto.tv/channels/600ae52e34a3700007000534/colorLogoPNG.png" group-title="Series" tvg-name="Sin tetas no hay paraiso",Sin tetas no hay paraiso
 https://stitcher.pluto.tv/stitch/hls/channel/600ae52e34a3700007000534/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
+#EXTINF:-1 tvg-id="Tierra de lobos", tvg-logo="https://images.pluto.tv/channels/600ae59c341b1d0007d1c7cb/colorLogoPNG.png" group-title="Series" tvg-name="Tierra de lobos",Tierra de lobos
+https://stitcher.pluto.tv/stitch/hls/channel/600ae59c341b1d0007d1c7cb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 #EXTINF:-1 tvg-id="Ana y los 7", tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="Series" tvg-name="Ana y los 7",Ana y los 7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
