@@ -256,12 +256,15 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/29.ts
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/135ec32569b08c4.m3u
 #EXTINF:-1 tvg-id="Eleven Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="Deportes" tvg-name="Eleven Sport 1",Eleven Sport 1 Portugal
 http://iptv8.premium-stv.com:2052/live/SPORTPORTpro1/vgadJThhsjdfw33/1615.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="Deportes" tvg-name="SPORT TV 2 HD",SPORT TV 2 HD
-#EXTVLCOPT:http-user-agent=stream
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="LaLiga English HD" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2019/08/la-liga-bein-sports-tv-600x332.png" group-title="Deportes" tvg-name="LaLiga English HD",LaLiga English HD
 #EXTVLCOPT:http-user-agent=stream
 http://185.53.88.39:8081/abr_hls/abr_S-4/playlist.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Deportes" tvg-name="SPORT TV 1 HD",SPORT TV 1 HD PORTUGAL
+#EXTVLCOPT:http-user-agent=stream
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="Deportes" tvg-name="SPORT TV 2 HD",SPORT TV 2 HD PORTUGAL
+#EXTVLCOPT:http-user-agent=stream
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga hd
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts
