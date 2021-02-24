@@ -265,6 +265,9 @@ http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="Deportes" tvg-name="SPORT TV 2 HD",SPORT TV 2 HD PORTUGAL
 #EXTVLCOPT:http-user-agent=stream
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TUDN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tudn.png" group-title="Deportes" tvg-name="TUDN",TUDN MEXICO
+#EXTVLCOPT:http-user-agent=stream
+http://matiasstornini00.shortcm.li:80/shio1.m3u8
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga hd
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts
