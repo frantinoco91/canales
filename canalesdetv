@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@frantinoco91 
-frantinoco91
-/
-canales
-2
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-canales/canalesdetv
-@frantinoco91
-frantinoco91 Update canalesdetv
-Latest commit 4c0092d 4 minutes ago
- History
- 2 contributors
-@frantinoco91@Torrejoncillu
-646 lines (646 sloc)  80.8 KB
- 
 #EXTM3U CANALES DE TV
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/frantinoco91/canales/main/guia_satelite.xml"
