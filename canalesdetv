@@ -62,7 +62,7 @@ http://asiantv4you.com/live/Bandook/onMmCEPoxr/15800.m3u8
 #EXTINF:-1 tvg-id="DISNEY CH HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="Infantil" tvg-name="DISNEY CH HD",DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/4486d8945630b17.m3u
-#EXTINF:-1 tvg-id="Pluto TV Action Kids" tvg-logo="https://images.pluto.tv/channels/60218c2a32f9c40007c2f7cc/colorLogoPNG.png group-title="Infantil" tvg-name="Pluto TV Action Kids,Pluto TV Action Kids
+#EXTINF:-1 tvg-id="Pluto TV Action Kids" tvg-logo="https://images.pluto.tv/channels/60218c2a32f9c40007c2f7cc/colorLogoPNG.png" group-title="Infantil" tvg-name="Pluto TV Action Kids,Pluto TV Action Kids
 https://stitcher.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c2f7cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 #EXTINF:-1 tvg-id="Bob Esponja", tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png", group-title="Infantil" tvg-name="Bob Esponja",Bob Esponja
@@ -340,8 +340,7 @@ https://rtvelivestream-lvlt.rtve.es/tdp_dvr_4000.m3u8
 http://91.126.141.13:1935/live/91/playlist.m3u8
 #EXTINF:-1 tvg-id="BARCA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="Deportes" tvg-name="BARCA TV",Barca Tv
 http://91.126.138.142:1935/live/smil:barza.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="R. 
-RID TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="Deportes" tvg-name="R. MADRID TV",Real Madrid TV
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="Deportes" tvg-name="R. MADRID TV",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="Deportes" tvg-name="R. MADRID TV",Real Madrid TV opc2
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
@@ -652,15 +651,3 @@ http://cdn.adultiptv.net/anal.m3u8
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-logo="http://adultiptv.net/wp-content/uploads/2019/06/two_portrait_people_woman_sexy_love_girl_beautiful-689305.jpg" group-title="Adultos",Vip Lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
