@@ -174,23 +174,6 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/29.ts
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga hd
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga hd opc2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga hd opc3
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://bb123.pro:1453/live/kingdiablo/x7Hf1psD4R/1734.ts
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga hd opc4
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6dde2691a4fabbb.m3u
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga hd opc5
-http://asiantv4you.com/live/Bandook/onMmCEPoxr/529.m3u8
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/60db5d8cba015b9.m3u
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga opc2
-#EXTVLCOPT:http-user-agent=stream
-https://hn1.gt-app.com/hls/iBarVSrm15.m3u8
 #EXTINF:-1 tvg-id="MLS" tvg-logo="https://i.imgur.com/6t7x61s.png",group-title="Deportes" tvg-name="MLS",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/200px-BT_Sport_logo_2019.svg.png" group-title="Deportes",Bt Sport
