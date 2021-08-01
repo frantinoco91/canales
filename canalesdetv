@@ -68,6 +68,9 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/40.ts
 #EXTINF:-1 tvg-id="M. DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Cine" tvg-name="M. DRAMA HD",M+ Drama
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/42.ts
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Cine" tvg-name="M. DRAMA HD",M+ Drama opc2
+#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
+https://h0n3jz23swf31thl.azcdn381.net:8443/hls/ngw10prw.m3u8?s=lWgRGQcEjdmsfmvYAottOQ&e=1627836588
 #EXTINF:-1 tvg-id="M.CineDocRoll" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" group-title="Cine" tvg-name="M.CineDocRoll",M+ CINE DOC&ROLL
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts
