@@ -382,6 +382,9 @@ https://h0n3jz23swf31thl.azcdn381.net:8443/hls/5kgg4.m3u8?s=M-CLKdj6izCTfXEc31M-
 #EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="Documentales" tvg-name="DMAX",DMAX
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/24.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://1.bp.blogspot.com/-hz7PMlp4OaA/UQAq9nLG2ZI/AAAAAAAACtE/aKFhUGOAyUY/s1600/Discovery+channel+en+vivo.jpg" group-title="Documentales" tvg-name="Discovery Channel",Discovery Channel
+#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
+https://h0n3jz23swf31thl.azcdn381.net:8443/hls/vyymlg.m3u8?s=bkOSqciG0Poa30mRdBuIBw&e=1627837360
 #EXTINF:-1 tvg-id="Los nuevos detectives" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Documentales" tvg-name="Los nuevos detectives",Los nuevos detectives
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
