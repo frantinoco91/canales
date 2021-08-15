@@ -221,6 +221,10 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/28.ts
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/31.ts
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="Deportes" tvg-name="DAZN 1 HD",DAZN 1 HD OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/171006
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="Deportes" tvg-name="DAZN 1 HD",DAZN 1 HD MOVISTAR OS
+http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177719
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo=""  group-title="Deportes" tvg-name="DAZN 2 HD",DAZN 2 HD MOVISTAR OS
+http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177720
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 VIP FHD" tvg-logo="" group-title="Deportes" tvg-name="DAZN 1 VIP FHD",DAZN 1 VIP FHD OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177711
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 VIP FHD" tvg-logo="" group-title="Deportes" tvg-name="DAZN 2 VIP FHD",DAZN 2 VIP FHD OS
