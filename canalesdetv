@@ -279,6 +279,8 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/48.ts
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77395
 #EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="Infantil" tvg-name="CLAN  TVE",Clan sd
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/240px-Disney_channel_2019.png" group-title="Infantil" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL OS
+http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77421
 #EXTINF:-1 tvg-id="Pequeradio" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantil" tvg-name="Pequeradio",Pequeradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="Big Time Rush" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="Infantil" tvg-name="Big Time Rush",Big Time Rush
