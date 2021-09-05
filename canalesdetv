@@ -203,6 +203,9 @@ http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177729
 #EXTINF:-1 tvg-ID="bein.laliga.es" tvg-name="M. Laliga" tvg-logo="https://cdn.mos.cms.futurecdn.net/2REU59HsRBo3RkyM9euoiH-320-80.jpg" group-title="Deportes",M. Laliga PA
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/16861.ts
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="M. LaLiga" tvg-logo="https://anh.24h.com.vn//upload/3-2016/images/2016-08-30/1472523135-laliga.jpg" group-title="Deportes",M. Laliga PA opc2
+#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5423.ts
 #EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="M. Laliga 1" tvg-logo="http://p-img.movetv.com/cms/images/461f1a555bc3dc574c87ad790122d009291cc8c4.jpg" group-title="Deportes",M. Laliga 1 PA
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/8676.ts
