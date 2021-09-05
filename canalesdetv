@@ -2,21 +2,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/frantinoco91/canales/main/guia_satelite.xml"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/es.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hQ1fzvd.jpg" group-title="Alquiler",TAQ 1
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/13.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGt5SMY.jpg" group-title="Alquiler",TAQ 2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/12.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BEWA0iV.jpg" group-title="Alquiler",TAQ 3
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/11.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDXECu4.jpg" group-title="Alquiler",TAQ 4
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/10.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Y8cpOG.jpg" group-title="Alquiler",TAQ 5
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/9.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1 
 http://91.126.141.13:1935/live/41/playlist.m3u8
 #EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="LA 2",LA 2
@@ -25,9 +10,6 @@ http://91.126.141.13:1935/live/81/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6721.ts
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/50.ts
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD opc2
 http://91.126.141.13:1935/live/11/playlist.m3u8
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Generalistas" tvg-name="CUATRO HD",CUATRO HD
 http://91.126.141.13:1935/live/51/playlist.m3u8
