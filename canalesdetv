@@ -374,6 +374,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u
 #EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="Musica" tvg-name="MTV ESPAÑA",MTV SPAIN
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/14.ts
+#EXTINF:-1 tvg-id="M. FEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Movistar-Fest.png" group-title="Musica" tvg-name="M. FEST",M. FEST PA
+#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/16858.ts
 #EXTINF:-1 tvg-id="IGN" tvg-logo="https://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/colorLogoPNG.png" group-title="Entretenimiento",IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
