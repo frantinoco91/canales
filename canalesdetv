@@ -285,6 +285,9 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/25.ts
 #EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="Documentales" tvg-name="CAZAyPESCA HD",CAZA Y PESCA HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5413.ts
+#EXTINF:-1 tvg-ID="iberalia.es" tvg-name="IBERALIA" tvg-logo="http://2.bp.blogspot.com/-QXp6l1jmOpQ/VoT7fMkHzDI/AAAAAAAAUvk/dMTPVtvn99U/s1600-r/moscaiberalia%2BRGB.jpg" group-title="Documentales",IBERALIA
+#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5427.ts
 #EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Documentales" tvg-name="CRIMEN+INVES",CRIME & INVESTIGATION
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6984.ts
