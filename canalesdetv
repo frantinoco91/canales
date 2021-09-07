@@ -355,9 +355,12 @@ http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="Documentales" tvg-name="DMAX",DMAX
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/24.ts
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.pinimg.com/originals/03/70/a4/0370a4b4d7e3bb2acae3b10f166f454f.jpg" group-title="Documentales",DISCOVERY CHANNEL PA
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.pinimg.com/originals/03/70/a4/0370a4b4d7e3bb2acae3b10f166f454f.jpg" group-title="Documentales",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/2703.ts
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.pinimg.com/originals/03/70/a4/0370a4b4d7e3bb2acae3b10f166f454f.jpg" group-title="Documentales",DISCOVERY CHANNEL opc2
+#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/2704.ts
 #EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="http://compitv.info:8080/images/ed18d774503865e8465db01e2116f861.png" group-title="Documentales",tvg-name="MEGA",MEGA OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77408
 #EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="http://compitv.info:8080/images/c7bf5e5294620b48a9e801565a2ced25.png" group-title="Documentales",tvg-name="BE MAD",BE MAD OS
