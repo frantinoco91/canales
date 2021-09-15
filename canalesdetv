@@ -231,7 +231,7 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/2693.ts
 http://91.126.141.13:1935/live/91/playlist.m3u8
 #EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2013/12/04/149729.jpg" group-title="Deportes" tvg-name="REAL MADRID TV",Real Madrid Tv
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-https://h0n3jz23swf31thl.azcdn381.net:8443/hls/nx7s8.m3u8?s=nAOeztHcohU6cZZ8zk3bBQ&e=1627836034
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7680.ts
 #EXTINF:-1 tvg-id="BARCA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="Deportes" tvg-name="BARCA TV",Barca Tv
 http://91.126.138.141:1935/live/barza/chunklist_w1270912450.m3u8
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd
