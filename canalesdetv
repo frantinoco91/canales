@@ -360,7 +360,10 @@ http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY OS
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5410.ts
-#EXTINF:-1 tvg-ID="nova.es" tvg-name="NOVA" tvg-logo="https://4.bp.blogspot.com/-G7kPCQ7ggSc/UJhH4zLPprI/AAAAAAAAPK0/-h-lS4gQRTI/s1600/Nova+logo+2012.png" group-title="Generalistas",NOVA
+#EXTINF:-1 tvg-ID="neox.es" tvg-name="NEOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logoneoxamarillo.gif" group-title="Generalistas",NEOX
+#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5408.ts
+#EXTINF:-1 tvg-ID="nova.es" tvg-name="NOVA" tvg-logo="https://4.bp.blogspot.com/-G7kPCQ7ggSc/UJhH4zLPprI/AAAAAAAAPK0/-h-lS4gQRTI/s1600/Nova+logo+2012.png" group-title="Generalistas" tvg-name="NOVA",NOVA
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5409.ts
 #EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://compitv.info:8080/images/6477cb0d3efed6754bbd6247a2dc232e.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY
