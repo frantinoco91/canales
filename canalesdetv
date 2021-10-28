@@ -405,8 +405,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acbed25948a0007
 https://stitcher.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 #EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="Musica" tvg-name="MTV ESPAÑA",MTV SPAIN
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6985.ts
+#EXTVLCOPT:http-user-agent=cp_baby_doge_the
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/14.ts
 #EXTINF:-1 tvg-ID="mezzolivehd.es" tvg-name="MEZZO LIVE HD" tvg-logo="https://www.mezzo.tv/5be00c6e/static/img/generic/mezzo.jpg" group-title="Musica",MEZZO LIVE HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/19201.ts
