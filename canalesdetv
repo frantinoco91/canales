@@ -103,6 +103,9 @@ http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/6
 #EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Cine" tvg-name="TNT HD",TNT HD
 #EXTVLCOPT:http-user-agent=cp_baby_doge_the
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/16.ts
+#EXTINF:-1 tvg-id="COMEDY CENTRAL HD" tvg-logo="https://i.pinimg.com/originals/da/26/79/da2679fc378b304574c38f0c78033d42.png" group-title="Cine" tvg-name="COMEDY CENTRAL HD",COMEDY CENTRAL HD
+#EXTVLCOPT:http-user-agent=cp_baby_doge_the
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/45.ts
 #EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="Cine" tvg-name="#0 HD",#0 HD
 #EXTVLCOPT:http-user-agent=cp_baby_doge_the
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/44.ts
