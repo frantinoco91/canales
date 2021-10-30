@@ -295,9 +295,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a0500007
 #EXTINF:-1 tvg-id="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG.png" group-title="Infantil" tvg-name="Pluto TV Junior",Pluto TV Junior
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-#EXTINF:-1 tvg-id="BLAZE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="Documentales" tvg-name="BLAZE",BLAZE
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6722.ts
 #EXTINF:-1 tvg-ID="odisea.es" tvg-name="Odisea" tvg-logo="http://1.bp.blogspot.com/-YLnBYkrFOvo/TWQJieHJYFI/AAAAAAAAATc/3UdNtBKnE9M/s1600/Odisea%2Blogo%2B2011.jpg" group-title="Documentales",Odisea
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17734.ts
