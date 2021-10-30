@@ -428,7 +428,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.discogs.com/aNeN6zemQKWiAogbT6jGFGKaULM=/fit-in/600x378/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/L-898133-1442435430-6281.gif.jpg" group-title="Musica",RUTV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_poster.png?3" group-title="Musica",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w265474821_b2028000_sleng.m3u8
+http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/225813
 #EXTINF:-1,tvg-logo="https://graph.facebook.com/virginradioitaly/picture?width=200&height=200" group-title="Musica",Virgin Radio Italia IT
 https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 #EXTINF:-1,tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" group-title="Musica",Urban Revolution
