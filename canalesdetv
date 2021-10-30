@@ -199,7 +199,7 @@ http://91.126.141.13:1935/live/91/playlist.m3u8
 #EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2013/12/04/149729.jpg" group-title="Deportes" tvg-name="REAL MADRID TV",Real Madrid Tv OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/47664
 #EXTINF:-1 tvg-id="BARCA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="Deportes" tvg-name="BARCA TV",Barca Tv
-http://91.126.138.141:1935/live/barza/chunklist_w1270912450.m3u8
+http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177722
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177695
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF OS
