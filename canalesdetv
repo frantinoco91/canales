@@ -164,6 +164,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8588734f80008
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 #EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS HD
 http://nordic1.tv:2095/live/hXZp0zPK/djDM7bPC%20/48817.m3u8
+#EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS OS
+http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/47654
 #EXTINF:-1 tvg-ID="" tvg-name="M. La Liga HD" tvg-logo="https://anh.24h.com.vn//upload/3-2016/images/2016-08-30/1472523135-laliga.jpg" group-title="Deportes",M. La Liga HD
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177698
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Deportes" tvg-name="M. LaLiga HD",M+ Liga OS
