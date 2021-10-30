@@ -299,12 +299,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd816070007
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/266469
 #EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77416
-#EXTINF:-1 tvg-ID="neox.es" tvg-name="NEOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logoneoxamarillo.gif" group-title="Generalistas",NEOX
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5408.ts
-#EXTINF:-1 tvg-ID="nova.es" tvg-name="NOVA" tvg-logo="https://4.bp.blogspot.com/-G7kPCQ7ggSc/UJhH4zLPprI/AAAAAAAAPK0/-h-lS4gQRTI/s1600/Nova+logo+2012.png" group-title="Generalistas" tvg-name="NOVA",NOVA
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5409.ts
 #EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://compitv.info:8080/images/6477cb0d3efed6754bbd6247a2dc232e.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77418
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA
