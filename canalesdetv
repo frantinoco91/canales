@@ -129,6 +129,8 @@ http://185.41.244.69/dark/index.m3u8
 http://185.41.244.69/calle13/index.m3u8
 #EXTINF:-1 tvg-id="XTRM HD" tvg-logo="https://www.formulatv.com/images/noticias/31700/31734/2.jpg"  group-title="Cine" tvg-name="XTRM HD",XTRM
 http://185.41.244.69/xtrm/index.m3u8
+#EXTINF:-1 tvg-id="Somos" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/05f74609458855e3dd64ff0edfcf6fb1_SOMOS.png" group-title="Cine" tvg-name="Somos",Somos
+http://185.41.244.69/somos/index.m3u8
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="Series" tvg-name="COSMO HD",COSMO hd
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="Series" tvg-name="COSMO HD",COSMO hd opc2
