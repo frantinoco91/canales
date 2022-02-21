@@ -243,6 +243,12 @@ http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/2
 #EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="Documentales" tvg-name="CAZAyPESCA HD",CAZA Y PESCA HD
 #EXTVLCOPT:http-user-agent=cp_baby_doge_the
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/22.ts
+#EXTINF:-1  tvg-id="IBERALIA CAZA HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberaliacaza.png" group-title="Documentales" tvg-name="IBERALIA CAZA HD",IBERALIA CAZA HD
+http://185.41.244.69/iberaliacaza/video.m3u8
+#EXTINF:-1  tvg-id="IBERALIA PESCA HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberaliapesca.png" group-title="Documentales" tvg-name="IBERALIA PESCA HD",IBERALIA PESCA HD
+http://185.41.244.69/iberaliapesca/video.m3u8
+#EXTINF:-1  tvg-id="IBERALIA HD" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="Documentales" tvg-name="IBERALIA HD",IBERALIA HD
+http://185.41.244.69/iberalia/video.m3u8
 #EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Documentales" tvg-name="CRIMEN+INVES",CRIME & INVESTIGATION
 #EXTVLCOPT:http-user-agent=Excp_baby_doge_the
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/48.ts
