@@ -117,8 +117,8 @@ http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/2
 #EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX HD",FOX HD OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77420
 #EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Cine" tvg-name="AMC HD",AMC HD
-#EXTVLCOPT:http-user-agent=cp_baby_doge_the
-http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/47.ts
+#EXTVLCOPT:http-user-agent=""
+http://185.41.244.69/amc/index.m3u8
 #EXTVLCOPT:http-user-agent=cp_baby_doge_the
 #EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="Series" tvg-name="AXN HD",AXN HD
 #EXTVLCOPT:http-user-agent=cp_baby_doge_the
