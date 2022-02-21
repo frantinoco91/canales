@@ -124,6 +124,8 @@ http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/1
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/18.ts
 #EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Series" tvg-name="SYFY HD",SYFY
 http://185.41.244.69/syfy/index.m3u8
+#EXTINF:-1 tvg-id="TMC" tvg-logo="https://static.eldiario.es/clip/263f5a82-da41-4afa-b26f-d42fd9d8a2b0_16-9-aspect-ratio_default_0.jpg" group-title="Series" tvg-name="TMC",TMC
+http://185.41.244.69/tcm/index.m3u8
 #EXTINF:-1 tvg-id="CALLE 13 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Cine" tvg-name="CALLE 13 HD",CALLE 13 HD
 #EXTVLCOPT:http-user-agent=cp_baby_doge_the
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/39.ts
