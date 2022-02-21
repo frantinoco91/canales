@@ -38,8 +38,7 @@ http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/48193
 #EXTVLCOPT:http-user-agent=cp_baby_doge_the
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/43.ts
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine" tvg-name="M. ACCION HD",M+ Accion hd
-#EXTVLCOPT:http-user-agent=cp_baby_doge_the
-http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts
+http://iptvmedia.live:8080/FM10008/ee54fb4b/1148
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Cine" tvg-name="M.COMEDIA HD",M+ COMEDIA HD
 #EXTVLCOPT:http-user-agent=cp_baby_doge_the
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/40.ts
@@ -187,13 +186,7 @@ http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/3
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes" tvg-name="#VAMOS HD",#VAMOS HD OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177696
 #EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes" tvg-name="EUROSPORT1 HD",EUROSPORT 1 HD
-#EXTVLCOPT:http-user-agent=cp_baby_doge_the
-http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/49.ts
-#EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes" tvg-name="EUROSPORT1 HD",EUROSPORT 1 HD opc2
-#EXTVLCOPT:http-user-agent=cp_baby_doge_the
-http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/27.ts
-#EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes" tvg-name="EUROSPORT1 HD",EUROSPORT 1 HD opc3
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177710
+http://185.41.244.69:80/eurosport1/tracks-v2a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes" tvg-name="EUROSPORT 2",EUROSPORT 2 hd OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177724
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD OS
