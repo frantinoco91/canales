@@ -206,8 +206,8 @@ http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177717
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/47664
 #EXTINF:-1 tvg-id="BARCA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="Deportes" tvg-name="BARCA TV",Barca Tv
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177722
-#EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd OS
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177695
+#EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd
+http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177718
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF SD
