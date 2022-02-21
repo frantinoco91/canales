@@ -127,6 +127,8 @@ http://185.41.244.69/tcm/index.m3u8
 http://185.41.244.69/dark/index.m3u8
 #EXTINF:-1 tvg-id="CALLE 13 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Cine" tvg-name="CALLE 13 HD",CALLE 13
 http://185.41.244.69/calle13/index.m3u8
+#EXTINF:-1 tvg-id="XTRM HD" tvg-logo="https://www.formulatv.com/images/noticias/31700/31734/2.jpg"  group-title="Cine" tvg-name="XTRM HD",XTRM
+http://185.41.244.69/xtrm/index.m3u8
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="Series" tvg-name="COSMO HD",COSMO hd
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="Series" tvg-name="COSMO HD",COSMO hd opc2
