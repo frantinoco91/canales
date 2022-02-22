@@ -35,8 +35,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e0007
 #EXTINF:-1 tvg-ID="babytv.es" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Infantil",BABY TV
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/48193
 #EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine" tvg-name="M.ESTRENOS HD",M+ ESTRENOS HD
-#EXTVLCOPT:http-user-agent=cp_baby_doge_the
-http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/43.ts
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1176
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine" tvg-name="M. ACCION HD",M+ Accion hd
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1148
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Cine" tvg-name="M.COMEDIA HD",M+ COMEDIA HD
