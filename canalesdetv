@@ -305,7 +305,8 @@ http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/266469
 #EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77416
 #EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://compitv.info:8080/images/6477cb0d3efed6754bbd6247a2dc232e.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77418
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1215
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA
 http://185.41.244.69/cocina/index.m3u8
 #EXTINF:-1 tvg-id="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Documentales" tvg-name="Pluto TV Cocina",Pluto TV Cocina
