@@ -99,7 +99,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc548530007
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 #EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Cine" tvg-name="TNT HD",TNT HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1211
+http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1212
 #EXTINF:-1 tvg-id="COMEDY CENTRAL HD" tvg-logo="https://i.pinimg.com/originals/da/26/79/da2679fc378b304574c38f0c78033d42.png" group-title="Cine" tvg-name="COMEDY CENTRAL HD",COMEDY CENTRAL HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1210
