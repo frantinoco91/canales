@@ -170,6 +170,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8588734f80008
 #EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1294
+#EXTINF:-1 tvg-ID="" tvg-name="Liga Bar HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",Liga HD Bar ACESTREAM
+268361065992567230d35c0d62f02ffdebe8be2d
 #EXTINF:-1 tvg-ID="" tvg-name="M. La Liga HD" tvg-logo="https://anh.24h.com.vn//upload/3-2016/images/2016-08-30/1472523135-laliga.jpg" group-title="Deportes",M. La Liga HD
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="M. La Liga HD" tvg-logo="https://anh.24h.com.vn//upload/3-2016/images/2016-08-30/1472523135-laliga.jpg" group-title="Deportes",M. La Liga HD ACESTREAM
