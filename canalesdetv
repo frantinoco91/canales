@@ -174,10 +174,14 @@ http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1294
 268361065992567230d35c0d62f02ffdebe8be2d
 #EXTINF:-1 tvg-ID="" tvg-name="M. La Liga HD" tvg-logo="https://anh.24h.com.vn//upload/3-2016/images/2016-08-30/1472523135-laliga.jpg" group-title="Deportes",M. La Liga HD
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. La Liga HD" tvg-logo="https://anh.24h.com.vn//upload/3-2016/images/2016-08-30/1472523135-laliga.jpg" group-title="Deportes",M. La Liga HD 720p ACESTREAM
+acestream://0ce1373e072d1e8fe6bfb1129d1e11c11c8fe93d
 #EXTINF:-1 tvg-ID="" tvg-name="M. La Liga HD" tvg-logo="https://anh.24h.com.vn//upload/3-2016/images/2016-08-30/1472523135-laliga.jpg" group-title="Deportes",M. La Liga HD ACESTREAM
 acestream://59c95c0f30d265c541d9ef163f652b9542bc0b4b
 #EXTINF:-1 tvg-ID="" tvg-name="M. La Liga HD" tvg-logo="https://anh.24h.com.vn//upload/3-2016/images/2016-08-30/1472523135-laliga.jpg" group-title="Deportes",M. La Liga HD Multi ACESTREAM
 acestream://66fce3f5d46225bc8e7e3ba5b45cfcc59aeac69f
+#EXTINF:-1 tvg-ID="" tvg-name="M. La Liga HD" tvg-logo="https://anh.24h.com.vn//upload/3-2016/images/2016-08-30/1472523135-laliga.jpg" group-title="Deportes",M. La Liga HD Multi ACESTREAM (1080)
+acestream://2b16391b15b98bd06576cfb7f7be400d3f78f2d1
 #EXTINF:-1 tvg-id="MLS" tvg-logo="https://i.imgur.com/6t7x61s.png",group-title="Deportes" tvg-name="MLS",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Deportes" tvg-name="M.LCAMPEONES HD",M+ Liga de Campeones HD ACESTREAM
