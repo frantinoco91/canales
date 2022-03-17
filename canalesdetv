@@ -204,12 +204,10 @@ http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177718
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF SD
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177723
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="Deportes" tvg-name="DAZN 1 HD",DAZN 1 HD OS
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/171006
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="Deportes" tvg-name="DAZN 1 HD",DAZN 1 HD MOVISTAR OS
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177719
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo=""  group-title="Deportes" tvg-name="DAZN 2 HD",DAZN 2 HD OS
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177720
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="Deportes" tvg-name="DAZN 1 HD",DAZN 1 HD ACESTREAM
+acestream://bdf68ae2a90d682b19630a7aedd78cca93f32f56
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo=""  group-title="Deportes" tvg-name="DAZN 2 HD",DAZN 2 HD ACESTREAM
+acestream://5d5ec96d976d6532d30edde5cd6d04e9f5916182
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 VIP FHD" tvg-logo="" group-title="Deportes" tvg-name="DAZN 1 VIP FHD",DAZN 1 VIP FHD OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177711
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 VIP FHD" tvg-logo="" group-title="Deportes" tvg-name="DAZN 2 VIP FHD",DAZN 2 VIP FHD OS
