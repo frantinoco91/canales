@@ -210,6 +210,8 @@ acestream://f6a99c8826e81e0a6f0dde923deeccd2827d43b3
 acestream://065bf7e674897a4310d5d3ed8cec99ba56496ef9
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD ACESTREAM (1080)
 acestream://9a68bf410d49d4d140217cfd576cc99e927f1cd6
+#EXTINF:-1 tvg-id="M. DEPORTES 1 HD" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_deportes_1.png" group-title="Deportes" tvg-name="M. DEPORTES 1 HD",M+ DEPORTES 1 HD
+http://fx2world.com:8080/UiB0uz4CH1/DCh7W0ogjo/1101
 #EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE FHD",Teledeporte
 http://91.126.141.13:1935/live/91/playlist.m3u8
 #EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE FHD",Teledeporte OS
