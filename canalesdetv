@@ -36,8 +36,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e0007
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1176
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine" tvg-name="M. ACCION HD",M+ Accion hd
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1179
+http://fx2world.com:8080/UiB0uz4CH1/DCh7W0ogjo/1094
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Cine" tvg-name="M.COMEDIA HD",M+ COMEDIA HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1180
