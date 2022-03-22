@@ -72,8 +72,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1182
 #EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/200px-Canal%2B.svg.png" group-title="Series",M. SERIES HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1181
+http://fx2world.com:8080/UiB0uz4CH1/DCh7W0ogjo/1099
 #EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Cine" tvg-name="HOLLYWOOD HD",HOLLYWOOD HD
 http://185.41.244.69/hollywood/index.m3u8
 #EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Cine" tvg-name="HOLLYWOOD HD",HOLLYWOOD HD opc2
