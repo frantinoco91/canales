@@ -105,6 +105,8 @@ http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1210
 #EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="Cine" tvg-name="#0 HD",#0 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1350
+#EXTINF:-1 tvg-id="M. La resistencia HD" tvg-logo="https://img.huffingtonpost.com/asset/5ea008b9220000ec08827702.png?ops=scalefit_720_noupscale" group-title="Cine" tvg-name="M. La resistencia HD",M. La resistencia HD
+https://yt3.ggpht.com/ytc/AKedOLQvj5tBL2gkDiiei_r632tAkdhBsrZqgiBin_FbpA=s900-c-k-c0x00ffffff-no-rj
 #EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX HD",FOX HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1204
