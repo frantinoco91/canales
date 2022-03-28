@@ -275,9 +275,7 @@ https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/240px-Disney_channel_2019.png" group-title="Infantil" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/66136
 #EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Infantil",DISNEY JUNIOR
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/28836
-#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Infantil",DISNEY JUNIOR opc2
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/47839
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6104
 #EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Boing_2020.png/125px-Boing_2020.png" group-title="Infantil" tvg-name="BOING",BOING
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/78885
 #EXTINF:-1 tvg-ID="nickjr.es" tvg-name="NICK Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantil",NICK Jr
@@ -309,9 +307,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd816070007
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="Generalistas" tvg-name="FDF",FDF
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1216
-#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY OS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1217
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6102
 #EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://compitv.info:8080/images/6477cb0d3efed6754bbd6247a2dc232e.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1215
