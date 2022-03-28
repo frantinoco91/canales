@@ -138,8 +138,10 @@ http://185.41.244.69/calle13/index.m3u8
 #EXTINF:-1 tvg-id="CALLE 13 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Cine" tvg-name="CALLE 13 HD",CALLE 13 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1209
-#EXTINF:-1 tvg-id="XTRM HD" tvg-logo="https://www.formulatv.com/images/noticias/31700/31734/2.jpg"  group-title="Cine" tvg-name="XTRM HD",XTRM
-http://185.41.244.69/xtrm/index.m3u8
+#EXTINF:-1 tvg-id="XTRM HD" tvg-logo="https://www.formulatv.com/images/noticias/31700/31734/2.jpg"  group-title="Cine" tvg-name="XTRM HD",XTRM HD
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/68789
+#EXTINF:-1 tvg-id="XTRM HD" tvg-logo="https://www.formulatv.com/images/noticias/31700/31734/2.jpg"  group-title="Cine" tvg-name="XTRM HD",XTRM HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/68790
 #EXTINF:-1 tvg-id="Somos" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/05f74609458855e3dd64ff0edfcf6fb1_SOMOS.png" group-title="Cine" tvg-name="Somos",Somos
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/68791
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="Series" tvg-name="COSMO HD",COSMO hd
