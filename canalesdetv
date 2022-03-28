@@ -197,9 +197,11 @@ acestream://457cd0b481fb965a70cec905d5ac3bc9c6283e2b
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6015
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes" tvg-name="EUROSPORT 2",EUROSPORT 2 hd ACESTREAM
 acestream://f6a99c8826e81e0a6f0dde923deeccd2827d43b3
-#EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD ACESTREAM
+#EXTINF:-1 tvg-id="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51377
+#EXTINF:-1 tvg-id="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD ACESTREAM
 acestream://065bf7e674897a4310d5d3ed8cec99ba56496ef9
-#EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD ACESTREAM (1080)
+#EXTINF:-1 tvg-id="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD ACESTREAM (1080)
 acestream://9a68bf410d49d4d140217cfd576cc99e927f1cd6
 #EXTINF:-1 tvg-id="M. DEPORTES 1 HD" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_deportes_1.png" group-title="Deportes" tvg-name="M. DEPORTES 1 HD",M+ DEPORTES 1 HD
 http://fx2world.com:8080/UiB0uz4CH1/DCh7W0ogjo/1101
@@ -249,12 +251,14 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6081
 #EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="Documentales" tvg-name="CAZAyPESCA HD",CAZA Y PESCA HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1305
+#EXTINF:-1 tvg-id="Odisea-SP" tvg-name="ODISEA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/odisea_es.png" group-title="Documentales",ODISEA
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51380
 #EXTINF:-1  tvg-id="IBERALIA CAZA HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberaliacaza.png" group-title="Documentales" tvg-name="IBERALIA CAZA HD",IBERALIA CAZA HD
 http://185.41.244.69/iberaliacaza/video.m3u8
 #EXTINF:-1  tvg-id="IBERALIA PESCA HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberaliapesca.png" group-title="Documentales" tvg-name="IBERALIA PESCA HD",IBERALIA PESCA HD
 http://185.41.244.69/iberaliapesca/video.m3u8
-#EXTINF:-1  tvg-id="IBERALIA HD" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="Documentales" tvg-name="IBERALIA HD",IBERALIA HD
-http://185.41.244.69/iberalia/video.m3u8
+#EXTINF:-1  tvg-id="IBERALIA" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="Documentales" tvg-name="IBERALIA ",IBERALIA
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51379
 #EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Documentales" tvg-name="CRIMEN+INVES",CRIME & INVESTIGATION
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6031
 #EXTINF:-1 tvg-id="" tvg-name="VIAJAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Canalviajar.png/150px-Canalviajar.png" group-title="Documentales" tvg-name="VIAJAR",VIAJAR OS
