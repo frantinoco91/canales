@@ -4,26 +4,44 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/es.xml.gz"
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1 
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6094
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1 HD
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51393
 #EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="LA 2",LA 2 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6093
+#EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="LA 2",LA 2 HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51394
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6140
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51396
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Generalistas" tvg-name="CUATRO HD",CUATRO HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6107
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Generalistas" tvg-name="CUATRO HD",CUATRO HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51397
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="TELECINCO HD",TELECINCO HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6070
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="TELECINCO HD",TELECINCO HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51398
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Generalistas" tvg-name="LA SEXTA HD",La Sexta HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6091
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Generalistas" tvg-name="LA SEXTA HD",La Sexta HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51399
 #EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="http://silvertv.net:1997/images/SPAIN/nova.png" group-title="Generalistas",NOVA
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6077
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="http://silvertv.net:1997/images/SPAIN/nova.png" group-title="Generalistas",NOVA opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51401
 #EXTINF:-1 tvg-id="Neox" tvg-name="NEOX" tvg-logo="http://silvertv.net:1997/images/SPAIN/neox.png" group-title="Generalistas",NEOX
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6079
+#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX" tvg-logo="http://silvertv.net:1997/images/SPAIN/neox.png" group-title="Generalistas",NEOX opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51402
 #EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="https://mma.prnewswire.com/media/323322/1498622_logo_atreseries_Logo.jpg?p=facebook" group-title="Generalistas" tvg-name="Atreseries HD",Atreseries HD
 http://91.126.141.13:1935/live/101/playlist.m3u8
 #EXTINF:-1 tvg-id="TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="Generalistas" tvg-name="TRECE",TRECE TV
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS" tvg-logo="http://silvertv.net:1997/images/SPAIN/24horas.png" group-title="Generalistas",24 HORAS
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6142
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS" tvg-logo="http://silvertv.net:1997/images/SPAIN/24horas.png" group-title="Generalistas",24 HORAS HD
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51395
 #EXTINF:-1 tvg-id="Intereconomia TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/INTECO.png" group-title="Generalistas" tvg-name="INTERECONOMIA",El Toro TV
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Garfield" tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="Infantil" tvg-name="Garfield",Garfield
@@ -207,10 +225,8 @@ acestream://9a68bf410d49d4d140217cfd576cc99e927f1cd6
 http://fx2world.com:8080/UiB0uz4CH1/DCh7W0ogjo/1101
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE",Teledeporte
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6069
-#EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2013/12/04/149729.jpg" group-title="Deportes" tvg-name="REAL MADRID TV",Real Madrid Tv OS
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/47664
-#EXTINF:-1 tvg-id="BARCA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="Deportes" tvg-name="BARCA TV",Barca Tv
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177722
+#EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2013/12/04/149729.jpg" group-title="Deportes" tvg-name="REAL MADRID TV",Real Madrid Tv
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6075
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6089
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF HD
@@ -277,12 +293,14 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6114
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/66136
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/240px-Disney_channel_2019.png" group-title="Infantil" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6105
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/240px-Disney_channel_2019.png" group-title="Infantil" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL HD opc3
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51386
 #EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Infantil",DISNEY JUNIOR
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6104
 #EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Boing_2020.png/125px-Boing_2020.png" group-title="Infantil" tvg-name="BOING",BOING
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/18368
-#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="NICK Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantil",NICK Jr
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/47831
+#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="NICK Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantil",NICK JR HD
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51387
 #EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Infantil",NICKELODEON HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6035
 #EXTINF:-1 tvg-id="Pequeradio" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantil" tvg-name="Pequeradio",Pequeradio
@@ -314,8 +332,12 @@ http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1216
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6102
 #EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://compitv.info:8080/images/6477cb0d3efed6754bbd6247a2dc232e.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51363
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" group-title="Documentales",BLAZE
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51388
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6117
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51384
 #EXTINF:-1 tvg-id="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Documentales" tvg-name="Pluto TV Cocina",Pluto TV Cocina
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
@@ -341,6 +363,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u
 #EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="Musica" tvg-name="MTV ESPAÑA",MTV SPAIN
 #EXTVLCOPT:http-user-agent=cp_baby_doge_the
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/14.ts
+#EXTINF:-1 tvg-id="MEZZO HD" tvg-name="MEZZO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Musica",MEZZO HD
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51390
 #EXTINF:-1 tvg-id="IGN" tvg-logo="https://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/colorLogoPNG.png" group-title="Entretenimiento",IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
