@@ -41,10 +41,9 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6126
 #EXTINF:-1 tvg-id="M.ESTRENOS 2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/c/8/xmovistar-estrenos-2.jpg.pagespeed.ic.Tw2HX1jioU.jpg" group-title="Cine" tvg-name="M. ESTRENOS 2 HD",M. ESTRENOS 2 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/94009
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine" tvg-name="M. ACCION HD",M+ Accion hd
-http://fx2world.com:8080/UiB0uz4CH1/DCh7W0ogjo/1094
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6132
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Cine" tvg-name="M.COMEDIA HD",M+ COMEDIA HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1180
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6131
 #EXTINF:-1 tvg-id="" tvg-name="M. CINE Ñ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/175px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Cine" tvg-name="M. CINE Ñ HD",M+ CINE Ñ HD
 http://fx2world.com:8080/UiB0uz4CH1/DCh7W0ogjo/1096
 #EXTINF:-1 tvg-id="" tvg-name="M. CINE Ñ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/175px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Cine" tvg-name="M. CINE Ñ HD",M+ CINE Ñ HD opc2
@@ -264,6 +263,10 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6031
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77395
 #EXTINF:-1 tvg-id="" tvg-name="DE CASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Casa_Club_tv_logo.svg/120px-Casa_Club_tv_logo.svg.png" group-title="Documentales" tvg-name="DE CASA",DE CASA
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6112
+#EXTINF:-1 tvg-id="Barca TV" tvg-name="BARCA TV" tvg-logo="http://silvertv.net:1997/images/SPAIN/Football_club_barcelona_television.png" group-title="Deportes",BARCA TV
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6135
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV" tvg-logo="http://silvertv.net:1997/images/SPAIN/babytv.png" group-title="Infantil",BABY TV
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6136
 #EXTINF:-1 tvg-id="Clan TVE" tvg-name="CLAN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve_internacional_eu.png" group-title="Infantil",CLAN HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6111
 #EXTINF:-1 tvg-id="Canal Panda" tvg-name="CANAL PANDA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_panda_es.png" group-title="Infantil",CANAL PANDA HD
