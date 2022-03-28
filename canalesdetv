@@ -120,11 +120,8 @@ http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1206
 #EXTINF:-1 tvg-id="AXN WHITE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Series" tvg-name="AXN WHITE HD",AXN WHITE HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1207
-#EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Series" tvg-name="SYFY HD",SYFY
-http://185.41.244.69/syfy/index.m3u8
 #EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Series" tvg-name="SYFY HD",SYFY HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1208
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6074
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://static.eldiario.es/clip/263f5a82-da41-4afa-b26f-d42fd9d8a2b0_16-9-aspect-ratio_default_0.jpg" group-title="Series" tvg-name="TCM",TCM
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6072
 #EXTINF:-1 tvg-id="CALLE 13 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Cine" tvg-name="CALLE 13 HD",CALLE 13
