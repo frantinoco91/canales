@@ -123,15 +123,14 @@ http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1207
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6074
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://static.eldiario.es/clip/263f5a82-da41-4afa-b26f-d42fd9d8a2b0_16-9-aspect-ratio_default_0.jpg" group-title="Series" tvg-name="TCM",TCM
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6072
-#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Cine" tvg-name="CALLE 13 HD",CALLE 13
-http://185.41.244.69/calle13/index.m3u8
 #EXTINF:-1 tvg-id="CALLE 13 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Cine" tvg-name="CALLE 13 HD",CALLE 13 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1209
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6118
 #EXTINF:-1 tvg-id="XTRM HD" tvg-logo="https://www.formulatv.com/images/noticias/31700/31734/2.jpg"  group-title="Cine" tvg-name="XTRM HD",XTRM HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/68789
 #EXTINF:-1 tvg-id="XTRM HD" tvg-logo="https://www.formulatv.com/images/noticias/31700/31734/2.jpg"  group-title="Cine" tvg-name="XTRM HD",XTRM HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/68790
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://silvertv.net:1997/images/SPAIN/paramount.png" group-title="Cine",PARAMOUNT CHANNEL
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6119
 #EXTINF:-1 tvg-id="Somos" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/05f74609458855e3dd64ff0edfcf6fb1_SOMOS.png" group-title="Cine" tvg-name="Somos",Somos
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/68791
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="Series" tvg-name="COSMO HD",COSMO HD
@@ -312,8 +311,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6102
 #EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://compitv.info:8080/images/6477cb0d3efed6754bbd6247a2dc232e.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1215
-#EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA
-http://185.41.244.69/cocina/index.m3u8
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA HD
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6117
 #EXTINF:-1 tvg-id="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Documentales" tvg-name="Pluto TV Cocina",Pluto TV Cocina
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
