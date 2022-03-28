@@ -223,6 +223,8 @@ acestream://3484a8b98af044d885fdc5f77e6e46a1506cbcf6
 acestream://b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes" tvg-name="#VAMOS HD",#VAMOS HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51375
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes" tvg-name="#VAMOS HD",#VAMOS HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51472
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes" tvg-name="#VAMOS HD",#VAMOS HD ACESTREAM
 acestream://39592ff924c626fb4a6e80fb67eb24a551afd47a
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes" tvg-name="#VAMOS HD",#VAMOS HD 720p ACESTREAM
@@ -230,13 +232,13 @@ acestream://e11b0f286f248d889a3ab95557f241bb3f816600
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes" tvg-name="#VAMOS HD",#VAMOS HD ACESTREAM (1080)
 acestream://28c4a6a2c7e5edc768db06bcfd9e197e8189cdae
 #EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes" tvg-name="EUROSPORT1 HD",EUROSPORT 1 HD
-http://185.41.244.69:80/eurosport1/tracks-v2a1a2/mono.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes" tvg-name="EUROSPORT1 HD",EUROSPORT 1 HD opc2
-http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51470
 #EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes" tvg-name="EUROSPORT1 HD",EUROSPORT 1 HD ACESTREAM
 acestream://457cd0b481fb965a70cec905d5ac3bc9c6283e2b
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes" tvg-name="EUROSPORT 2",EUROSPORT 2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6015
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes" tvg-name="EUROSPORT 2",EUROSPORT 2 opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51471
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes" tvg-name="EUROSPORT 2",EUROSPORT 2 hd ACESTREAM
 acestream://f6a99c8826e81e0a6f0dde923deeccd2827d43b3
 #EXTINF:-1 tvg-id="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD
