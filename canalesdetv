@@ -313,6 +313,8 @@ http://185.41.244.69/iberaliacaza/video.m3u8
 http://185.41.244.69/iberaliapesca/video.m3u8
 #EXTINF:-1  tvg-id="IBERALIA" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="Documentales" tvg-name="IBERALIA ",IBERALIA
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51379
+#EXTINF:-1  tvg-id="IBERALIA" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="Documentales" tvg-name="IBERALIA ",IBERALIA opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51486
 #EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Documentales" tvg-name="CRIMEN+INVES",CRIME & INVESTIGATION
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6031
 #EXTINF:-1 tvg-id="" tvg-name="VIAJAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Canalviajar.png/150px-Canalviajar.png" group-title="Documentales" tvg-name="VIAJAR",VIAJAR OS
@@ -333,14 +335,22 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/66136
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6105
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/240px-Disney_channel_2019.png" group-title="Infantil" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL HD opc3
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51386
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/240px-Disney_channel_2019.png" group-title="Infantil" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL HD opc4
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51497
 #EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Infantil",DISNEY JUNIOR
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6104
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Infantil",DISNEY JUNIOR HD
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51498
 #EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Boing_2020.png/125px-Boing_2020.png" group-title="Infantil" tvg-name="BOING",BOING
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/18368
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Boing_2020.png/125px-Boing_2020.png" group-title="Infantil" tvg-name="BOING",BOING opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51494
 #EXTINF:-1 tvg-ID="nickjr.es" tvg-name="NICK Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantil",NICK JR HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51387
 #EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Infantil",NICKELODEON HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6035
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Infantil",NICKELODEON HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51500
 #EXTINF:-1 tvg-id="Pequeradio" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantil" tvg-name="Pequeradio",Pequeradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="Pequeradio" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantil" tvg-name="Pequeradio",Pequeradio OS
