@@ -7,7 +7,7 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6094
 #EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="LA 2",LA 2 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6093
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD
-http://91.126.141.13:1935/live/11/playlist.m3u8
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6140
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Generalistas" tvg-name="CUATRO HD",CUATRO HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6107
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="TELECINCO HD",TELECINCO HD
@@ -22,6 +22,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6079
 http://91.126.141.13:1935/live/101/playlist.m3u8
 #EXTINF:-1 tvg-id="TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="Generalistas" tvg-name="TRECE",TRECE TV
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS" tvg-logo="http://silvertv.net:1997/images/SPAIN/24horas.png" group-title="Generalistas",24 HORAS
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6142
 #EXTINF:-1 tvg-id="Intereconomia TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/INTECO.png" group-title="Generalistas" tvg-name="INTERECONOMIA",El Toro TV
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Garfield" tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="Infantil" tvg-name="Garfield",Garfield
@@ -103,20 +105,15 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6067
 #EXTINF:-1 tvg-id="COMEDY CENTRAL HD" tvg-logo="https://i.pinimg.com/originals/da/26/79/da2679fc378b304574c38f0c78033d42.png" group-title="Cine" tvg-name="COMEDY CENTRAL HD",COMEDY CENTRAL HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6110
 #EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="Cine" tvg-name="#0 HD",#0 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1350
-#EXTINF:-1 tvg-id="M. La resistencia HD" tvg-logo="https://img.huffingtonpost.com/asset/5ea008b9220000ec08827702.png?ops=scalefit_720_noupscale" group-title="Cine" tvg-name="M. La resistencia HD",M. La resistencia HD
-https://yt3.ggpht.com/ytc/AKedOLQvj5tBL2gkDiiei_r632tAkdhBsrZqgiBin_FbpA=s900-c-k-c0x00ffffff-no-rj
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6143
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX",FOX
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6099
 #EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Cine" tvg-name="AMC HD",AMC HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6066
 #EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="Series" tvg-name="AXN HD",AXN HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1206
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6139
 #EXTINF:-1 tvg-id="AXN WHITE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Series" tvg-name="AXN WHITE HD",AXN WHITE HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1207
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6138
 #EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Series" tvg-name="SYFY HD",SYFY HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6074
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://static.eldiario.es/clip/263f5a82-da41-4afa-b26f-d42fd9d8a2b0_16-9-aspect-ratio_default_0.jpg" group-title="Series" tvg-name="TCM",TCM
@@ -278,7 +275,7 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6105
 #EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Infantil",DISNEY JUNIOR
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6104
 #EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Boing_2020.png/125px-Boing_2020.png" group-title="Infantil" tvg-name="BOING",BOING
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/78885
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/18368
 #EXTINF:-1 tvg-ID="nickjr.es" tvg-name="NICK Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantil",NICK Jr
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/47831
 #EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Infantil",NICKELODEON HD
@@ -324,8 +321,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6097
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.pinimg.com/originals/03/70/a4/0370a4b4d7e3bb2acae3b10f166f454f.jpg" group-title="Documentales",DISCOVERY CHANNEL
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6113
-#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="http://compitv.info:8080/images/ed18d774503865e8465db01e2116f861.png" group-title="Documentales",tvg-name="MEGA",MEGA OS
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77408
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="http://compitv.info:8080/images/ed18d774503865e8465db01e2116f861.png" group-title="Documentales",tvg-name="MEGA",MEGA
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51345
 #EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="http://compitv.info:8080/images/c7bf5e5294620b48a9e801565a2ced25.png" group-title="Documentales",tvg-name="BE MAD",BE MAD OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/86291
 #EXTINF:-1 tvg-id="Los nuevos detectives" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Documentales" tvg-name="Los nuevos detectives",Los nuevos detectives
