@@ -389,34 +389,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1780e94100007
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JGeeWeu.jpg" group-title="Musica",M2OTV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.discogs.com/aNeN6zemQKWiAogbT6jGFGKaULM=/fit-in/600x378/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/L-898133-1442435430-6281.gif.jpg" group-title="Musica",RUTV
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_poster.png?3" group-title="Musica",Music Top
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/225813
-#EXTINF:-1,tvg-logo="https://graph.facebook.com/virginradioitaly/picture?width=200&height=200" group-title="Musica",Virgin Radio Italia IT
-https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
-#EXTINF:-1,tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" group-title="Musica",Urban Revolution
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
-#EXTINF:-1,tvg-logo="https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200" group-title="Musica",Radio Montecarlo Italia
-https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1,tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" group-title="Musica",QMusic Holanda
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1,tvg-logo="https://graph.facebook.com/hitmusichu/picture?width=200&height=200" group-title="Musica",Hit Music HUNGRIA
-http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1,tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200" group-title="Musica",Retro Plus TV Chile EN
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1,,tvg-logo="https://graph.facebook.com/portalfoxmixtv/picture?width=200&height=200" group-title="Musica",Portal Foxmix Colombia
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Playboy TV" tvg-logo="http://ui.mrzutv.net:8080/images/b75156fd6437625e7d3b5fdb6473cea3.png" group-title="Adultos",Playboy TV
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/49334
-#EXTINF:-1 tvg-id="" tvg-name="Venus" tvg-logo="http://ui.mrzutv.net:8080/images/1b9e114afdbab75c6d17f0e7ed5f947b.png" group-title="Adultos",Venus
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/89077
-#EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="http://ui.mrzutv.net:8080/images/ea977fc0a75c0172151dd5a8c41fc369.jpg" group-title="Adultos",Sextreme
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/49311
-#EXTINF:-1 tvg-id="" tvg-name="XXX: bigtits" tvg-logo="http://176.9.51.86:25461/images/2481e84b8a219af8ff1bd15676ac74ee.png" group-title="Adultos",Bigtits
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/117892
-#EXTINF:-1 tvg-id="" tvg-name="XXX: brazzers" tvg-logo="http://176.9.51.86:8080/images/2481e84b8a219af8ff1bd15676ac74ee.png" group-title="Adultos",Brazzers
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/170712
 #EXTINF:-1 tvg-logo="http://adultiptv.net/wp-content/uploads/2019/06/56a581cbeb740da77b96ed53c32b-1630037.jpg" group-title="Adultos",Vip Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
 #EXTINF:-1 tvg-logo="",Woman
@@ -447,8 +425,6 @@ http://cdn.adultiptv.net/pov.m3u8
 http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1 tvg-logo="http://bgtop100.net/wp-content/uploads/2017/09/Jasmin-tv.jpg" group-title="Adultos",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png" group-title="Adultos",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/Jennylive-20d0592904692fc4a548f22667bdab44f98e36b153efb13719b66be478de186b.png" group-title="Adultos",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Offizielles_VISIT-X_Logo.jpg/200px-Offizielles_VISIT-X_Logo.jpg" group-title="Adultos",Visit-X TV
