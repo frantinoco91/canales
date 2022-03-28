@@ -13,7 +13,7 @@ http://91.126.141.13:1935/live/51/playlist.m3u8
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="TELECINCO HD",TELECINCO HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6070
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Generalistas" tvg-name="LA SEXTA HD",La Sexta HD
-http://91.126.141.13:1935/live/21/playlist.m3u8
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6091
 #EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="http://silvertv.net:1997/images/SPAIN/nova.png" group-title="Generalistas",NOVA
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6077
 #EXTINF:-1 tvg-id="Neox" tvg-name="NEOX" tvg-logo="http://silvertv.net:1997/images/SPAIN/neox.png" group-title="Generalistas",NEOX
@@ -219,7 +219,7 @@ http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/47664
 #EXTINF:-1 tvg-id="BARCA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="Deportes" tvg-name="BARCA TV",Barca Tv
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177722
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd
-http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6089
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6087
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="Deportes" tvg-name="DAZN 1 HD",DAZN 1 HD ACESTREAM
