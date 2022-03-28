@@ -133,6 +133,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51423
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6110
 #EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="Cine" tvg-name="#0 HD",#0 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6143
+#EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="Cine" tvg-name="#0 HD",#0 HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51430
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX",FOX
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6099
 #EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Cine" tvg-name="AMC HD",AMC HD
@@ -141,6 +143,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6066
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6139
 #EXTINF:-1 tvg-id="AXN WHITE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Series" tvg-name="AXN WHITE HD",AXN WHITE HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6138
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Series" tvg-name="AXN WHITE HD",AXN WHITE HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51435
 #EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Series" tvg-name="SYFY HD",SYFY HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6074
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://static.eldiario.es/clip/263f5a82-da41-4afa-b26f-d42fd9d8a2b0_16-9-aspect-ratio_default_0.jpg" group-title="Series" tvg-name="TCM",TCM HD
