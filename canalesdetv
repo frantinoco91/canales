@@ -213,10 +213,8 @@ acestream://065bf7e674897a4310d5d3ed8cec99ba56496ef9
 acestream://9a68bf410d49d4d140217cfd576cc99e927f1cd6
 #EXTINF:-1 tvg-id="M. DEPORTES 1 HD" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_deportes_1.png" group-title="Deportes" tvg-name="M. DEPORTES 1 HD",M+ DEPORTES 1 HD
 http://fx2world.com:8080/UiB0uz4CH1/DCh7W0ogjo/1101
-#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE FHD",Teledeporte
-http://91.126.141.13:1935/live/91/playlist.m3u8
-#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE FHD",Teledeporte OS
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177717
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE",Teledeporte
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6069
 #EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2013/12/04/149729.jpg" group-title="Deportes" tvg-name="REAL MADRID TV",Real Madrid Tv OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/47664
 #EXTINF:-1 tvg-id="BARCA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="Deportes" tvg-name="BARCA TV",Barca Tv
