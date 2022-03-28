@@ -69,8 +69,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60016a60a8e3520008
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 #EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="Series" tvg-name="M. SERIES HD",M+ Series HD 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1182
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/94010
 #EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/200px-Canal%2B.svg.png" group-title="Series",M. SERIES HD
 http://fx2world.com:8080/UiB0uz4CH1/DCh7W0ogjo/1099
 #EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Cine" tvg-name="HOLLYWOOD HD",HOLLYWOOD HD
