@@ -268,6 +268,8 @@ http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77395
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6112
 #EXTINF:-1 tvg-id="Clan TVE" tvg-name="CLAN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve_internacional_eu.png" group-title="Infantil",CLAN HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6111
+#EXTINF:-1 tvg-id="Canal Panda" tvg-name="CANAL PANDA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_panda_es.png" group-title="Infantil",CANAL PANDA HD
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6114
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/240px-Disney_channel_2019.png" group-title="Infantil" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/66136
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/240px-Disney_channel_2019.png" group-title="Infantil" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL HD opc2
@@ -320,7 +322,7 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6097
 #EXTINF:-1 tvg-id="Ten" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" group-title="Generalistas" tvg-name="TEN",TEN
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.pinimg.com/originals/03/70/a4/0370a4b4d7e3bb2acae3b10f166f454f.jpg" group-title="Documentales",DISCOVERY CHANNEL
-http://185.41.244.69/discoverychannel/index.m3u8
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6113
 #EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="http://compitv.info:8080/images/ed18d774503865e8465db01e2116f861.png" group-title="Documentales",tvg-name="MEGA",MEGA OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77408
 #EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="http://compitv.info:8080/images/c7bf5e5294620b48a9e801565a2ced25.png" group-title="Documentales",tvg-name="BE MAD",BE MAD OS
