@@ -189,6 +189,8 @@ acestream://66fce3f5d46225bc8e7e3ba5b45cfcc59aeac69f
 acestream://2b16391b15b98bd06576cfb7f7be400d3f78f2d1
 #EXTINF:-1 tvg-id="MLS" tvg-logo="https://i.imgur.com/6t7x61s.png",group-title="Deportes" tvg-name="MLS",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Deportes" tvg-name="M.LCAMPEONES HD",M+ Liga de Campeones HD
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6000
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Deportes" tvg-name="M.LCAMPEONES HD",M+ Liga de Campeones HD ACESTREAM
 acestream://a209c59cc9f6819f53b01ee4b3466ae3b7898a9c
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Deportes" tvg-name="M.LCAMPEONES HD",M+ Liga de Campeones HD ACESTREAM (1080)
