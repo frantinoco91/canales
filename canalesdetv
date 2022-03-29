@@ -285,14 +285,10 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51461
 acestream://bdf68ae2a90d682b19630a7aedd78cca93f32f56
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo=""  group-title="Deportes" tvg-name="DAZN 2 HD",DAZN 2 HD ACESTREAM
 acestream://5d5ec96d976d6532d30edde5cd6d04e9f5916182
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 VIP FHD" tvg-logo="" group-title="Deportes" tvg-name="DAZN 1 VIP FHD",DAZN 1 VIP FHD OS
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177711
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 VIP FHD" tvg-logo="" group-title="Deportes" tvg-name="DAZN 2 VIP FHD",DAZN 2 VIP FHD OS
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177712
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 VIP FHD" tvg-logo="" group-title="Deportes" tvg-name="DAZN 3 VIP FHD",DAZN 3 VIP FHD OS
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177713
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 VIP FHD" tvg-logo="" group-title="Deportes" tvg-name="DAZN 4 VIP FHD",DAZN 4 VIP FHD OS
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/177714
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD (ALEMAN)
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/17663
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyAtlantic.de.png" group-title="Deportes",DAZN 2 HD (ALEMAN)
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/17576
 #EXTINF:-1 tvg-id="GOL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="Deportes" tvg-name="GOL HD",GOL Tv HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6115
 #EXTINF:-1 tvg-id="Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="Documentales" tvg-name="Pluto TV Animales",Pluto TV Animales
