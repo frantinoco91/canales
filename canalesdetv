@@ -394,6 +394,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd816070007
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="Generalistas" tvg-name="FDF",FDF
 http://ultraplay.org:80/ALVAROFERNANDEZ1/AlvaroFernandez63ba35fy1/111182
+#EXTINF:-1 tvg-id="FDF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="Generalistas" tvg-name="FDF",FDF opc2
+http://ultraplay.org:80/ALVAROFERNANDEZ1/AlvaroFernandez63ba35fy1/111183
+#EXTINF:-1 tvg-id="FDF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="Generalistas" tvg-name="FDF",FDF opc3
+http://ultraplay.org:80/ALVAROFERNANDEZ1/AlvaroFernandez63ba35fy1/111184
 #EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6102
 #EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY opc2
