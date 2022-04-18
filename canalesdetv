@@ -6,8 +6,11 @@
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6094
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51393
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1 HD opc2
+http://live-31.spain.torofutbol.com:25461/iptvgratissss/SjZxIKYPtH/45788
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1 HD opc3
+http://live-31.spain.torofutbol.com:25461/iptvgratissss/SjZxIKYPtH/45789
 #EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="LA 2",LA 2 HD
-#EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="LA 2",LA 2 HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51394
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6140
@@ -43,6 +46,8 @@ http://ultraplay.org:80/ALVAROFERNANDEZ1/AlvaroFernandez63ba35fy1/111156
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS" tvg-logo="http://silvertv.net:1997/images/SPAIN/24horas.png" group-title="Generalistas",24 HORAS
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6142
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS" tvg-logo="http://silvertv.net:1997/images/SPAIN/24horas.png" group-title="Generalistas",24 HORAS opc2
+http://live-31.spain.torofutbol.com:25461/iptvgratissss/SjZxIKYPtH/45800
 #EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS" tvg-logo="http://silvertv.net:1997/images/SPAIN/24horas.png" group-title="Generalistas",24 HORAS HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51395
 #EXTINF:-1 tvg-id="Intereconomia TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/INTECO.png" group-title="Generalistas" tvg-name="INTERECONOMIA",El Toro TV
