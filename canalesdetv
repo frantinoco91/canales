@@ -252,6 +252,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6087
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51461
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD
+http://xtes.ddns.net:8080/play/KZK9VKKVtSSN5Egwk4qMO-BgrKNLnuenNAnw6tM_BJl4Do4d2xhVz-Yhifl8Gmsg/.m3u8
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD opc2
 http://ultraplay.org:80/ALVAROFERNANDEZ1/AlvaroFernandez63ba35fy1/111325
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyAtlantic.de.png" group-title="Deportes",DAZN 2 HD
 http://ultraplay.org:80/ALVAROFERNANDEZ1/AlvaroFernandez63ba35fy1/111326
