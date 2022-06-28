@@ -227,6 +227,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/5989
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51375
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes" tvg-name="#VAMOS HD",#VAMOS HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51472
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes" tvg-name="#VAMOS HD",#VAMOS HD opc3
+http://fxorexworld.com:8080/live/TkOU3P7ENs/1sOgOXGf7h/1174.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes" tvg-name="EUROSPORT1 HD",EUROSPORT 1 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51470
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes" tvg-name="EUROSPORT 2",EUROSPORT 2
