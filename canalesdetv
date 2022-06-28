@@ -231,12 +231,18 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51472
 http://fxorexworld.com:8080/live/TkOU3P7ENs/1sOgOXGf7h/1174.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes" tvg-name="EUROSPORT1 HD",EUROSPORT 1 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51470
+#EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes" tvg-name="EUROSPORT1 HD",EUROSPORT 1 HD opc2
+http://fxorexworld.com:8080/live/TkOU3P7ENs/1sOgOXGf7h/1163.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes" tvg-name="EUROSPORT 2",EUROSPORT 2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6015
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes" tvg-name="EUROSPORT 2",EUROSPORT 2 opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51471
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes" tvg-name="EUROSPORT 2",EUROSPORT 2 opc3
+http://fxorexworld.com:8080/live/TkOU3P7ENs/1sOgOXGf7h/1164.m3u8
 #EXTINF:-1 tvg-id="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51377
+#EXTINF:-1 tvg-id="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD opc2
+http://fxorexworld.com:8080/live/TkOU3P7ENs/1sOgOXGf7h/1101.m3u8
 #EXTINF:-1 tvg-id="M. DEPORTES 1 HD" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_deportes_1.png" group-title="Deportes" tvg-name="M. DEPORTES 1 HD",M+ DEPORTES 1 HD
 http://fx2world.com:8080/UiB0uz4CH1/DCh7W0ogjo/1101
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE",Teledeporte
@@ -249,6 +255,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51474
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6075
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6089
+#EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd opc2
+http://fxorexworld.com:8080/live/TkOU3P7ENs/1sOgOXGf7h/1109.m3u8
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6087
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF HD opc2
