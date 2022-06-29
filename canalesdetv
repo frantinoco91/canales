@@ -26,6 +26,8 @@ http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1120
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6070
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="TELECINCO HD",TELECINCO HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51398
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="TELECINCO HD",TELECINCO HD opc3
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1136
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Generalistas" tvg-name="LA SEXTA HD",La Sexta HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6091
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Generalistas" tvg-name="LA SEXTA HD",La Sexta HD opc2
@@ -169,6 +171,8 @@ http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1108
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6099
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX",FOX opc2
 http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1124
+#EXTINF:-1 tvg-id="FOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX",FOX HD
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1138
 #EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Cine" tvg-name="AMC HD",AMC HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6066
 #EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="Series" tvg-name="AXN HD",AXN HD
@@ -183,6 +187,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51435
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6074
 #EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Series" tvg-name="SYFY HD",SYFY HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51436
+#EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Series" tvg-name="SYFY HD",SYFY HD opc3
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1135
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://static.eldiario.es/clip/263f5a82-da41-4afa-b26f-d42fd9d8a2b0_16-9-aspect-ratio_default_0.jpg" group-title="Series" tvg-name="TCM",TCM HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6072
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://static.eldiario.es/clip/263f5a82-da41-4afa-b26f-d42fd9d8a2b0_16-9-aspect-ratio_default_0.jpg" group-title="Series" tvg-name="TCM",TCM HD opc2
@@ -235,10 +241,18 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51482
 http://fxorexworld.com:8080/live/TkOU3P7ENs/1sOgOXGf7h/1137.m3u8
 #EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS HD opc4
 http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1100
+#EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS HD opc5
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1137
 #EXTINF:-1 tvg-ID="" tvg-name="Liga Bar HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga Bar HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6092
 #EXTINF:-1 tvg-ID="" tvg-name="LaLiga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",LaLiga HD
 http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1125
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",LaLiga HD opc2
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1140
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",LaLiga HD opc3
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1141
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",LaLiga HD opc4
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1142
 #EXTINF:-1 tvg-id="MLS" tvg-logo="https://i.imgur.com/6t7x61s.png",group-title="Deportes" tvg-name="MLS",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Deportes" tvg-name="M.LCAMPEONES HD",M+ Liga de Campeones HD
@@ -317,6 +331,8 @@ http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1116
 http://xtes.ddns.net:8080/play/KZK9VKKVtSSN5Egwk4qMO-BgrKNLnuenNAnw6tM_BJl4Do4d2xhVz-Yhifl8Gmsg/.m3u8
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD opc2
 http://ultraplay.org:80/ALVAROFERNANDEZ1/AlvaroFernandez63ba35fy1/111325
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD opc3
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1139
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyAtlantic.de.png" group-title="Deportes",DAZN 2 HD
 http://ultraplay.org:80/ALVAROFERNANDEZ1/AlvaroFernandez63ba35fy1/111326
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD (ALEMAN)
