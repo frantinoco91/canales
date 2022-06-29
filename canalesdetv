@@ -60,8 +60,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e0007
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 #EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine" tvg-name="M.ESTRENOS HD",M+ ESTRENOS HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6126
-#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine" tvg-name="M.ESTRENOS HD",M+ ESTRENOS HH opc2
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine" tvg-name="M.ESTRENOS HD",M+ ESTRENOS HD opc2
 http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1096
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine" tvg-name="M.ESTRENOS HD",M+ ESTRENOS HD opc3
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1097
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine" tvg-name="M.ESTRENOS HD",M+ ESTRENOS HD opc4
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1102
 #EXTINF:-1 tvg-id="M.ESTRENOS 2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/c/8/xmovistar-estrenos-2.jpg.pagespeed.ic.Tw2HX1jioU.jpg" group-title="Cine" tvg-name="M. ESTRENOS 2 HD",M. ESTRENOS 2 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/94009
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine" tvg-name="M. ACCION HD",M+ Accion HD
@@ -111,6 +115,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/94010
 #EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/200px-Canal%2B.svg.png" group-title="Series",M. SERIES HD
 http://fx2world.com:8080/UiB0uz4CH1/DCh7W0ogjo/1099
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/200px-Canal%2B.svg.png" group-title="Series",M. SERIES HD opc2
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1099
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/200px-Canal%2B.svg.png" group-title="Series",M. SERIES HD opc3
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1103
 #EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Cine" tvg-name="HOLLYWOOD HD",HOLLYWOOD HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6096
 #EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Cine" tvg-name="HOLLYWOOD HD",HOLLYWOOD HD opc2
@@ -205,6 +213,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6051
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51482
 #EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS HD opc3
 http://fxorexworld.com:8080/live/TkOU3P7ENs/1sOgOXGf7h/1137.m3u8
+#EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS HD opc4
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1100
 #EXTINF:-1 tvg-ID="" tvg-name="Liga Bar HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga Bar HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6092
 #EXTINF:-1 tvg-id="MLS" tvg-logo="https://i.imgur.com/6t7x61s.png",group-title="Deportes" tvg-name="MLS",MLS
@@ -253,6 +263,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51377
 http://fxorexworld.com:8080/live/TkOU3P7ENs/1sOgOXGf7h/1101.m3u8
 #EXTINF:-1 tvg-id="M. DEPORTES 1 HD" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_deportes_1.png" group-title="Deportes" tvg-name="M. DEPORTES 1 HD",M+ DEPORTES 1 HD
 http://fx2world.com:8080/UiB0uz4CH1/DCh7W0ogjo/1101
+#EXTINF:-1 tvg-id="M. DEPORTES 1 HD" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_deportes_1.png" group-title="Deportes" tvg-name="M. DEPORTES 1 HD",M+ DEPORTES 1 HD opc2
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1101
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE",Teledeporte
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6069
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE",Teledeporte HD
