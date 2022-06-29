@@ -6,6 +6,10 @@
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6094
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51393
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1 HD opc2
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1127
+#EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="LA 2",LA 2
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1128
 #EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="LA 2",LA 2 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51394
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD
@@ -442,6 +446,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6097
 #EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="Documentales" tvg-name="HISTORIA",Historia HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51484
+#EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="Documentales" tvg-name="HISTORIA",Historia HD opc2
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1126
 #EXTINF:-1 tvg-id="Ten" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" group-title="Generalistas" tvg-name="TEN",TEN
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.pinimg.com/originals/03/70/a4/0370a4b4d7e3bb2acae3b10f166f454f.jpg" group-title="Documentales",DISCOVERY CHANNEL
