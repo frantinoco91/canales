@@ -22,6 +22,10 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6107
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51397
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Generalistas" tvg-name="CUATRO HD",CUATRO HD opc3
 http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1120
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Generalistas" tvg-name="CUATRO HD",CUATRO HD opc4
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1144
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Generalistas" tvg-name="CUATRO HD",CUATRO HD opc5
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1145
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="TELECINCO HD",TELECINCO HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6070
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="TELECINCO HD",TELECINCO HD opc2
@@ -263,6 +267,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51464
 http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1092
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Deportes" tvg-name="M.LCAMPEONES HD",M+ Liga de Campeones HD opc4
 http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1104
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Deportes" tvg-name="M.LCAMPEONES HD",M+ Liga de Campeones HD opc5
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1143
 #EXTINF:-1 tvg-id="M. Liga de campeones 1" tvg-name="M. Liga de campeones 1 HD" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcTUuP1-GGeuE12jVOZiVLblIe41QjwS_B2uk-AwiH7pliJxGVTZ0MjerY5i" group-title="Deportes",M. Liga de campeones 1 HD (Solo Eventos)
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/5998
 #EXTINF:-1 tvg-id="M. Liga de campeones 2" tvg-name="M. Liga de campeones 2  HD" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcTUuP1-GGeuE12jVOZiVLblIe41QjwS_B2uk-AwiH7pliJxGVTZ0MjerY5i" group-title="Deportes",M. Liga de campeones 2  HD (Solo Eventos)
