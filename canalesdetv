@@ -339,6 +339,8 @@ http://xtes.ddns.net:8080/play/KZK9VKKVtSSN5Egwk4qMO-BgrKNLnuenNAnw6tM_BJl4Do4d2
 http://ultraplay.org:80/ALVAROFERNANDEZ1/AlvaroFernandez63ba35fy1/111325
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD opc3
 http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1139
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD opc4
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1147
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyAtlantic.de.png" group-title="Deportes",DAZN 2 HD
 http://ultraplay.org:80/ALVAROFERNANDEZ1/AlvaroFernandez63ba35fy1/111326
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD (ALEMAN)
@@ -395,6 +397,8 @@ http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77395
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6112
 #EXTINF:-1 tvg-id="Barca TV" tvg-name="BARCA TV" tvg-logo="http://silvertv.net:1997/images/SPAIN/Football_club_barcelona_television.png" group-title="Deportes",BARCA TV
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6135
+#EXTINF:-1 tvg-id="Barca TV" tvg-name="BARCA TV" tvg-logo="http://silvertv.net:1997/images/SPAIN/Football_club_barcelona_television.png" group-title="Deportes",BARCA TV opc2
+http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1146
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV" tvg-logo="http://silvertv.net:1997/images/SPAIN/babytv.png" group-title="Infantil",BABY TV
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6136
 #EXTINF:-1 tvg-id="Clan TVE" tvg-name="CLAN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve_internacional_eu.png" group-title="Infantil",CLAN HD
