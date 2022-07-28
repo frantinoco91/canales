@@ -437,8 +437,6 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6035
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51500
 #EXTINF:-1 tvg-id="Pequeradio" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantil" tvg-name="Pequeradio",Pequeradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="Pequeradio" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantil" tvg-name="Pequeradio",Pequeradio OS
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/225636
 #EXTINF:-1 tvg-id="Big Time Rush" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="Infantil" tvg-name="Big Time Rush",Big Time Rush
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
@@ -492,8 +490,6 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6097
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51484
 #EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="Documentales" tvg-name="HISTORIA",Historia HD opc2
 http://fxorexworld.com:8080/TkOU3P7ENs/1sOgOXGf7h/1126
-#EXTINF:-1 tvg-id="Ten" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" group-title="Generalistas" tvg-name="TEN",TEN
-http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.pinimg.com/originals/03/70/a4/0370a4b4d7e3bb2acae3b10f166f454f.jpg" group-title="Documentales",DISCOVERY CHANNEL
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6113
 #EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.pinimg.com/originals/03/70/a4/0370a4b4d7e3bb2acae3b10f166f454f.jpg" group-title="Documentales",DISCOVERY CHANNEL opc2
