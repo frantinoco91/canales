@@ -227,10 +227,14 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51472
 https://daddylive.futbol/stream/stream-521.php
 #EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes" tvg-name="EUROSPORT1 HD",EUROSPORT 1 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51470
+#EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes" tvg-name="EUROSPORT1 HD",EUROSPORT 1 HD opc2
+https://daddylive.futbol/stream/stream-524.php
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes" tvg-name="EUROSPORT 2",EUROSPORT 2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6015
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes" tvg-name="EUROSPORT 2",EUROSPORT 2 opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51471
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes" tvg-name="EUROSPORT 2",EUROSPORT 2 opc3
+https://daddylive.futbol/stream/stream-525.php
 #EXTINF:-1 tvg-id="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51377
 #EXTINF:-1 tvg-id="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD opc2
