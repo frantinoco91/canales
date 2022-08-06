@@ -227,6 +227,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6015
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51471
 #EXTINF:-1 tvg-id="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51377
+#EXTINF:-1 tvg-id="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD opc2
+https://daddylive.futbol/stream/stream-436.php
 #EXTINF:-1 tvg-id="M. DEPORTES 1 HD" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_deportes_1.png" group-title="Deportes" tvg-name="M. DEPORTES 1 HD",M+ DEPORTES 1 HD
 http://fx2world.com:8080/UiB0uz4CH1/DCh7W0ogjo/1101
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE",Teledeporte
