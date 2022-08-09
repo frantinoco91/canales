@@ -151,6 +151,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6067
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51423
 #EXTINF:-1 tvg-id="COMEDY CENTRAL HD" tvg-logo="https://i.pinimg.com/originals/da/26/79/da2679fc378b304574c38f0c78033d42.png" group-title="Cine" tvg-name="COMEDY CENTRAL HD",COMEDY CENTRAL HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6110
+#EXTINF:-1 tvg-id="COMEDY CENTRAL HD" tvg-logo="https://i.pinimg.com/originals/da/26/79/da2679fc378b304574c38f0c78033d42.png" group-title="Cine" tvg-name="COMEDY CENTRAL HD",COMEDY CENTRAL HD opc2
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1165
 #EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="Cine" tvg-name="#0 HD",#0 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6143
 #EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="Cine" tvg-name="#0 HD",#0 HD opc2
@@ -432,6 +434,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51498
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/18368
 #EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Boing_2020.png/125px-Boing_2020.png" group-title="Infantil" tvg-name="BOING",BOING opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51494
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Boing_2020.png/125px-Boing_2020.png" group-title="Infantil" tvg-name="BOING",BOING opc3
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1166
 #EXTINF:-1 tvg-ID="nickjr.es" tvg-name="NICK Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantil",NICK JR HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51387
 #EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Infantil",NICKELODEON HD
