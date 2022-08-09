@@ -189,6 +189,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6119
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51424
 #EXTINF:-1 tvg-id="Somos" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/05f74609458855e3dd64ff0edfcf6fb1_SOMOS.png" group-title="Cine" tvg-name="Somos",Somos
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/68791
+#EXTINF:-1 tvg-id="Dark" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dark_es.png" group-title="Cine" tvg-name="Dark",Dark
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/68792
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="Series" tvg-name="COSMO HD",COSMO HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6109
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="Series" tvg-name="COSMO HD",COSMO HD opc2
