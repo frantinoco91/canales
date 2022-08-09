@@ -54,6 +54,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e0007
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6126
 #EXTINF:-1 tvg-id="M.ESTRENOS 2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/c/8/xmovistar-estrenos-2.jpg.pagespeed.ic.Tw2HX1jioU.jpg" group-title="Cine" tvg-name="M. ESTRENOS 2 HD",M. ESTRENOS 2 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/94009
+#EXTINF:-1 tvg-id="M.ESTRENOS 2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/c/8/xmovistar-estrenos-2.jpg.pagespeed.ic.Tw2HX1jioU.jpg" group-title="Cine" tvg-name="M. ESTRENOS 2 HD",M. ESTRENOS 2 HD opc2
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1099
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine" tvg-name="M. ACCION HD",M+ Accion HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6132
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine" tvg-name="M. ACCION HD",M+ Accion HD opc2
@@ -195,6 +197,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8588734f80008
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6051
 #EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51482
+#EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS HD opc3
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1100
 #EXTINF:-1 tvg-ID="" tvg-name="Liga Bar HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga Bar HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6092
 #EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD
