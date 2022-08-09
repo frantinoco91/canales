@@ -208,6 +208,8 @@ http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1100
 #EXTINF:-1 tvg-ID="" tvg-name="Liga Bar HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga Bar HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6092
 #EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1111
+#EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD opc2
 https://daddylive.futbol/stream/stream-84.php
 #EXTINF:-1 tvg-id="MLS" tvg-logo="https://i.imgur.com/6t7x61s.png",group-title="Deportes" tvg-name="MLS",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
@@ -243,6 +245,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51375
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51472
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes" tvg-name="#VAMOS HD",#VAMOS HD opc3
 https://daddylive.futbol/stream/stream-521.php
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes" tvg-name="#VAMOS HD",#VAMOS HD opc4
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1110
 #EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes" tvg-name="EUROSPORT1 HD",EUROSPORT 1 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51470
 #EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes" tvg-name="EUROSPORT1 HD",EUROSPORT 1 HD opc2
@@ -409,6 +413,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51388
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6117
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51384
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA HD opc3
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1112
 #EXTINF:-1 tvg-id="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Documentales" tvg-name="Pluto TV Cocina",Pluto TV Cocina
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
