@@ -147,6 +147,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6143
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51430
 #EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="Cine" tvg-name="#0 HD",#0 HD opc3
 http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1108
+#EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="Cine" tvg-name="#0 HD",#0 HD opc4
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1124
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX",FOX
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6099
 #EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Cine" tvg-name="AMC HD",AMC HD
@@ -416,6 +418,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51443
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51363
 #EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://compitv.info:8080/images/6477cb0d3efed6754bbd6247a2dc232e.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51446
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://compitv.info:8080/images/6477cb0d3efed6754bbd6247a2dc232e.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY opc3
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1122
 #EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" group-title="Documentales",BLAZE
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51388
 #EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" group-title="Documentales",BLAZE opc2
