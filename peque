@@ -289,6 +289,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51461
 https://daddylive.futbol/stream/stream-528.php
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF HD opc4
 http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1098
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF HD opc5
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1116
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD
 http://xtes.ddns.net:8080/play/KZK9VKKVtSSN5Egwk4qMO-BgrKNLnuenNAnw6tM_BJl4Do4d2xhVz-Yhifl8Gmsg/.m3u8
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD opc1
@@ -337,8 +339,7 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6081
 #EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Documentales" tvg-name="NAT GEO WILD HD",NAT GEO WILD HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51477
 #EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="Documentales" tvg-name="CAZAyPESCA HD",CAZA Y PESCA HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1305
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1117
 #EXTINF:-1 tvg-id="Odisea-SP" tvg-name="ODISEA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/odisea_es.png" group-title="Documentales",ODISEA
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51380
 #EXTINF:-1  tvg-id="IBERALIA" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="Documentales" tvg-name="IBERALIA ",IBERALIA
