@@ -38,6 +38,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51401
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6079
 #EXTINF:-1 tvg-id="Neox" tvg-name="NEOX" tvg-logo="http://silvertv.net:1997/images/SPAIN/neox.png" group-title="Generalistas",NEOX opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51402
+#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX" tvg-logo="http://silvertv.net:1997/images/SPAIN/neox.png" group-title="Generalistas",NEOX opc3
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1133
 #EXTINF:-1 tvg-id="TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="Generalistas" tvg-name="TRECE",TRECE TV
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS" tvg-logo="http://silvertv.net:1997/images/SPAIN/24horas.png" group-title="Generalistas",24 HORAS
@@ -217,6 +219,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6051
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51482
 #EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS HD opc3
 http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1100
+#EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS HD opc4
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1132
 #EXTINF:-1 tvg-ID="" tvg-name="Liga Bar HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga Bar HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6092
 #EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD
@@ -350,6 +354,8 @@ http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1130
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6081
 #EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Documentales" tvg-name="NAT GEO WILD HD",NAT GEO WILD HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51477
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Documentales" tvg-name="NAT GEO WILD HD",NAT GEO WILD HD opc3
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1131
 #EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="Documentales" tvg-name="CAZAyPESCA HD",CAZA Y PESCA HD
 http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1117
 #EXTINF:-1 tvg-id="Odisea-SP" tvg-name="ODISEA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/odisea_es.png" group-title="Documentales",ODISEA
