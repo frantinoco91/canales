@@ -58,6 +58,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/94009
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6132
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine" tvg-name="M. ACCION HD",M+ Accion HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51419
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine" tvg-name="M. ACCION HD",M+ Accion HD opc3
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1094
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Cine" tvg-name="M.COMEDIA HD",M+ COMEDIA HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6131
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Cine" tvg-name="M.COMEDIA HD",M+ COMEDIA HD opc2
@@ -203,6 +205,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6000
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51464
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Deportes" tvg-name="M.LCAMPEONES HD",M+ Liga de Campeones HD opc3
 https://daddylive.futbol/stream/stream-435.php
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Deportes" tvg-name="M.LCAMPEONES HD",M+ Liga de Campeones HD opc4
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1092
 #EXTINF:-1 tvg-id="M. Liga de campeones 1" tvg-name="M. Liga de campeones 1 HD" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcTUuP1-GGeuE12jVOZiVLblIe41QjwS_B2uk-AwiH7pliJxGVTZ0MjerY5i" group-title="Deportes",M. Liga de campeones 1 HD (Solo Eventos)
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/5998
 #EXTINF:-1 tvg-id="M. Liga de campeones 2" tvg-name="M. Liga de campeones 2  HD" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcTUuP1-GGeuE12jVOZiVLblIe41QjwS_B2uk-AwiH7pliJxGVTZ0MjerY5i" group-title="Deportes",M. Liga de campeones 2  HD (Solo Eventos)
