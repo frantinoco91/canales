@@ -169,6 +169,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51435
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6074
 #EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Series" tvg-name="SYFY HD",SYFY HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51436
+#EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Series" tvg-name="SYFY HD",SYFY HD opc3
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1135
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://static.eldiario.es/clip/263f5a82-da41-4afa-b26f-d42fd9d8a2b0_16-9-aspect-ratio_default_0.jpg" group-title="Series" tvg-name="TCM",TCM HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6072
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://static.eldiario.es/clip/263f5a82-da41-4afa-b26f-d42fd9d8a2b0_16-9-aspect-ratio_default_0.jpg" group-title="Series" tvg-name="TCM",TCM HD opc2
@@ -287,6 +289,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51467
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51474
 #EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2013/12/04/149729.jpg" group-title="Deportes" tvg-name="REAL MADRID TV",Real Madrid Tv
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6075
+#EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2013/12/04/149729.jpg" group-title="Deportes" tvg-name="REAL MADRID TV",Real Madrid Tv opc2
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1134
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6089
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd opc1
