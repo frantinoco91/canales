@@ -12,6 +12,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51394
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6140
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51396
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD opc3
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1114
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Generalistas" tvg-name="CUATRO HD",CUATRO HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6107
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Generalistas" tvg-name="CUATRO HD",CUATRO HD opc2
@@ -409,6 +411,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51363
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51446
 #EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" group-title="Documentales",BLAZE
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51388
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" group-title="Documentales",BLAZE opc2
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1113
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6117
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA HD opc2
