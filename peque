@@ -448,6 +448,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51387
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6035
 #EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Infantil",NICKELODEON HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51500
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Infantil",NICKELODEON HD opc3
+http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1170
 #EXTINF:-1 tvg-id="Pequeradio" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantil" tvg-name="Pequeradio",Pequeradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="Big Time Rush" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="Infantil" tvg-name="Big Time Rush",Big Time Rush
