@@ -30,6 +30,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6070
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51398
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="TELECINCO HD",TELECINCO HD opc3
 http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1136
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="TELECINCO HD",TELECINCO HD opc4
+https://photocall.tv/ks5g/mt?ch=telecinco
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Generalistas" tvg-name="LA SEXTA HD",La Sexta HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6091
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Generalistas" tvg-name="LA SEXTA HD",La Sexta HD opc2
