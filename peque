@@ -357,7 +357,9 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51477
 #EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Documentales" tvg-name="NAT GEO WILD HD",NAT GEO WILD HD opc3
 http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1131
 #EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="Documentales" tvg-name="CAZAyPESCA HD",CAZA Y PESCA HD
-http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1117
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6112
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="Documentales" tvg-name="CAZAyPESCA HD",CAZA Y PESCA HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51481
 #EXTINF:-1 tvg-id="Odisea-SP" tvg-name="ODISEA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/odisea_es.png" group-title="Documentales",ODISEA
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51380
 #EXTINF:-1 tvg-id="Odisea-SP" tvg-name="ODISEA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/odisea_es.png" group-title="Documentales",ODISEA opc2
@@ -371,7 +373,9 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6031
 #EXTINF:-1 tvg-id="" tvg-name="VIAJAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Canalviajar.png/150px-Canalviajar.png" group-title="Documentales" tvg-name="VIAJAR",VIAJAR OS
 http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77395
 #EXTINF:-1 tvg-id="" tvg-name="DE CASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Casa_Club_tv_logo.svg/120px-Casa_Club_tv_logo.svg.png" group-title="Documentales" tvg-name="DE CASA",DE CASA
-http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6112
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51439
+#EXTINF:-1 tvg-id="" tvg-name="DE CASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Casa_Club_tv_logo.svg/120px-Casa_Club_tv_logo.svg.png" group-title="Documentales" tvg-name="DE CASA",DE CASA opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6029
 #EXTINF:-1 tvg-id="Barca TV" tvg-name="BARCA TV" tvg-logo="http://silvertv.net:1997/images/SPAIN/Football_club_barcelona_television.png" group-title="Deportes",BARCA TV
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6135
 #EXTINF:-1 tvg-id="Barca TV" tvg-name="BARCA TV" tvg-logo="http://silvertv.net:1997/images/SPAIN/Football_club_barcelona_television.png" group-title="Deportes",BARCA TV opc2
