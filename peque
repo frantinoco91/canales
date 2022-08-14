@@ -193,8 +193,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8588734f80008
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6051
 #EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes" tvg-name="TOROS HD",TOROS HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51482
-#EXTINF:-1 tvg-ID="" tvg-name="Liga Bar HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga Bar HD
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga DAZN HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga DAZN HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6092
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga DAZN HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga DAZN HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51459
 #EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6024
 #EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD opc2
