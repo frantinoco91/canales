@@ -269,6 +269,10 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51461
 http://xtes.ddns.net:8080/play/KZK9VKKVtSSN5Egwk4qMO-BgrKNLnuenNAnw6tM_BJl4Do4d2xhVz-Yhifl8Gmsg/.m3u8
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD opc2
 https://bahiadeportes.com/dazn
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD web
+https://sfntv.xyz/ver/dazn1
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD web opc2
+https://sfntv.xyz/ver/dazn1#.Y1ZVU9XwF6E.link
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 2 HD
 https://bahiadeportes.com/dazn2
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD (ALEMAN)
