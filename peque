@@ -203,6 +203,10 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6092
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51459
 #EXTINF:-1 tvg-ID="" tvg-name="La Liga DAZN HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga DAZN HD opc3
 https://starlive.xyz/embed.php?id=liveLiga-Dazn
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga DAZN HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga DAZN HD web
+https://sfntv.xyz/ver/daznlaliga
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga DAZN HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga DAZN HD web opc2
+https://sfntv.xyz/ver/daznlaliga#.Y1ZVA9LLsGg.link
 #EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6024
 #EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD opc2
