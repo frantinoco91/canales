@@ -261,6 +261,10 @@ http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1134
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6089
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd opc1
 http://94.177.158.190:8081/live/FORMULA1.m3u8/playlist.m3u8
+#EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd web
+https://sfntv.xyz/ver/daznf1
+#EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd web opc2
+https://sfntv.xyz/ver/daznf1#.Y1ZWlEXRjXk.link
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6087
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF HD opc2
