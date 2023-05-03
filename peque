@@ -380,10 +380,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a0500007
 #EXTINF:-1 tvg-id="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG.png" group-title="Infantil" tvg-name="Pluto TV Junior",Pluto TV Junior
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY
-http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6102
-#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png" group-title="Generalistas" tvg-name="DIVINITY",DIVINITY opc2
-http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51443
 #EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://compitv.info:8080/images/6477cb0d3efed6754bbd6247a2dc232e.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51363
 #EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://compitv.info:8080/images/6477cb0d3efed6754bbd6247a2dc232e.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY opc2
