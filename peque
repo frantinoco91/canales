@@ -3,9 +3,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/frantinoco91/canales/main/guia_satelite.xml"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/es.xml.gz"
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1 
-http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6094
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="LA 1 HD",La 1 HD
-http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51393
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="LA 2",LA 2 HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51394
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Generalistas" tvg-name="ANTENA 3 HD",ANTENA 3 HD
