@@ -20,8 +20,6 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51398
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6091
 #EXTINF:-1 tvg-id="Neox" tvg-name="NEOX" tvg-logo="http://silvertv.net:1997/images/SPAIN/neox.png" group-title="Generalistas",NEOX
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6079
-#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX" tvg-logo="http://silvertv.net:1997/images/SPAIN/neox.png" group-title="Generalistas",NEOX opc2
-http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51402
 #EXTINF:-1 tvg-id="TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="Generalistas" tvg-name="TRECE",TRECE TV
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS" tvg-logo="http://silvertv.net:1997/images/SPAIN/24horas.png" group-title="Generalistas",24 HORAS
