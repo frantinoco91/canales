@@ -32,9 +32,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u
 #EXTINF:-1 tvg-id="Anime Clasico" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Infantil",Anime Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=af8cb846-b8b4-11eb-b834-0242ac110002
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-#EXTINF:-1 tvg-id="Pluto TV Action Kids" tvg-logo="https://images.pluto.tv/channels/60218c2a32f9c40007c2f7cc/colorLogoPNG.png" group-title="Infantil" tvg-name="Pluto TV Action Kids,Pluto TV Action Kids
-https://stitcher.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c2f7cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 #EXTINF:-1 tvg-id="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Infantil" tvg-name="Bob Esponja",Bob Esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
@@ -324,8 +321,6 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6029
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6135
 #EXTINF:-1 tvg-id="Barca TV" tvg-name="BARCA TV" tvg-logo="http://silvertv.net:1997/images/SPAIN/Football_club_barcelona_television.png" group-title="Deportes",BARCA TV opc2
 http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1146
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV" tvg-logo="http://silvertv.net:1997/images/SPAIN/babytv.png" group-title="Infantil",BABY TV
-http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6136
 #EXTINF:-1 tvg-id="Clan TVE" tvg-name="CLAN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve_internacional_eu.png" group-title="Infantil",CLAN HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6111
 #EXTINF:-1 tvg-id="Canal Panda" tvg-name="CANAL PANDA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_panda_es.png" group-title="Infantil",CANAL PANDA HD
