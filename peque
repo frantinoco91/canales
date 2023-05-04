@@ -337,10 +337,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd816070007
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51363
 #EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://compitv.info:8080/images/6477cb0d3efed6754bbd6247a2dc232e.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51446
-#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://compitv.info:8080/images/6477cb0d3efed6754bbd6247a2dc232e.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY opc3
-http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1122
-#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1280px-Ten.svg.png" group-title="Generalistas" tvg-name="TEN",TEN
-http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1179
 #EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" group-title="Documentales",BLAZE
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51388
 #EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" group-title="Documentales",BLAZE opc2
