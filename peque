@@ -117,9 +117,9 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51422
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6118
 #EXTINF:-1 tvg-id="XTRM HD" tvg-logo="https://www.formulatv.com/images/noticias/31700/31734/2.jpg"  group-title="Cine" tvg-name="XTRM HD",XTRM HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/68790
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://silvertv.net:1997/images/SPAIN/paramount.png" group-title="Cine",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="Cine",PARAMOUNT NETWORK
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6119
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://silvertv.net:1997/images/SPAIN/paramount.png" group-title="Cine",PARAMOUNT CHANNEL opc2
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="Cine",PARAMOUNT NETWORK opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51424
 #EXTINF:-1 tvg-id="Somos" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/05f74609458855e3dd64ff0edfcf6fb1_SOMOS.png" group-title="Cine" tvg-name="Somos",Somos
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/68791
