@@ -18,6 +18,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6070
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51398
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Generalistas" tvg-name="LA SEXTA HD",La Sexta HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6091
+#EXTINF:-1 tvg-id="FDF" tvg-name="FDF" tvg-logo="https://album.mediaset.es/file/10002/2019/09/12/FDF_BOLA_3a2c.jpg" group-title="Generalistas",FDF
+http://tv.multitv.live:39001/Nuevoiptvw41/Iptvnuevo3628rx/173846
 #EXTINF:-1 tvg-id="Neox" tvg-name="NEOX" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="Generalistas",NEOX
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6079
 #EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/9E408606-58A2-46D1-BCC8-BDE2FD5FAD78//720x540.jpg" group-title="Generalistas",NOVA
