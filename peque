@@ -111,6 +111,10 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6110
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6143
 #EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="Cine" tvg-name="#0 HD",#0 HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51430
+#EXTINF:-1 tvg-id="M. SERIES" tvg-logo="https://1.bp.blogspot.com/-eJJOuHbWAhE/XyNd1dsl3QI/AAAAAAAAAkw/00ucgwum0AAUxa7mRuGLWhm-XlvD588fwCLcBGAsYHQ/w200-h200/47%2Bm%2Bseries.png" group-title="Series" tvg-name="M. SERIES",M. SERIES HD
+http://tv.multitv.live:39001/Nuevoiptvw41/Iptvnuevo3628rx/117243
+#EXTINF:-1 tvg-id="M. SERIESMANIA" tvg-logo="https://1.bp.blogspot.com/-cILFZFxgiQk/XyNd4PbXW4I/AAAAAAAAAlI/OVZyP299MUoBqkqX2iISgoTcH3cs2SVxACLcBGAsYHQ/w200-h200/53%2Bmseriesmania.png" group-title="Series" tvg-name="M. SERIESMANIA",M. SERIESMANIA HD
+http://tv.multitv.live:39001/Nuevoiptvw41/Iptvnuevo3628rx/117245
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX",FOX
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6099
 #EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Cine" tvg-name="AMC HD",AMC HD
