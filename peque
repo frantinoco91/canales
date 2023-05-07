@@ -22,8 +22,10 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6091
 http://tv.multitv.live:39001/Nuevoiptvw41/Iptvnuevo3628rx/173846
 #EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="Generalistas",Divinity
 http://tv.multitv.live:39001/Nuevoiptvw41/Iptvnuevo3628rx/117177
-#EXTINF:-1 tvg-id="Divinity" tvg-name="DKiss" tvg-logo="https://www.dkiss.es/wp-content/uploads/favicon.png" group-title="Generalistas",DKiss
+#EXTINF:-1 tvg-id="DKiss" tvg-name="DKiss" tvg-logo="https://www.dkiss.es/wp-content/uploads/favicon.png" group-title="Generalistas",DKiss
 http://tv.multitv.live:39001/Nuevoiptvw41/Iptvnuevo3628rx/117175
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM Cine" tvg-logo="https://www.grupogodo.com/wp-content/uploads/2016/12/bom-CINE-web.png" group-title="Generalistas",BOM Cine
+http://tv.multitv.live:39001/Nuevoiptvw41/Iptvnuevo3628rx/117258
 #EXTINF:-1 tvg-id="Neox" tvg-name="NEOX" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="Generalistas",NEOX
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6079
 #EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/9E408606-58A2-46D1-BCC8-BDE2FD5FAD78//720x540.jpg" group-title="Generalistas",NOVA
