@@ -207,12 +207,12 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6015
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51471
 #EXTINF:-1 tvg-id="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51377
+#EXTINF:-1 tvg-id="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes" tvg-name="M. DEPORTE HD",M+ DEPORTES HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51474
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE",Teledeporte
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6069
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE",Teledeporte HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51467
-#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="TELEDEPORTE",Teledeporte HD opc2
-http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51474
 #EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2013/12/04/149729.jpg" group-title="Deportes" tvg-name="REAL MADRID TV",Real Madrid Tv
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6075
 #EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2013/12/04/149729.jpg" group-title="Deportes" tvg-name="REAL MADRID TV",Real Madrid Tv opc2
