@@ -351,10 +351,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd816070007
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51363
 #EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="https://4.bp.blogspot.com/-FeitpcROtPU/TwIEowk2izI/AAAAAAAAATI/g0HN4up-TH0/s1600/canal-energy.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51446
-#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" group-title="Documentales",BLAZE
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="AMC BREAK" tvg-logo="https://images.tuamc.tv/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4156152379c245d81bb9aa287ee582f3_AMC-Break--1200x630.jpg" group-title="Documentales",AMC BREAK
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51388
-#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" group-title="Documentales",BLAZE opc2
-http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1113
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6117
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Documentales" tvg-name="CANAL COCINA",CANAL COCINA HD opc2
