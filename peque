@@ -177,10 +177,6 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6092
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51459
 #EXTINF:-1 tvg-ID="" tvg-name="La Liga DAZN HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga DAZN HD opc3
 https://starlive.xyz/embed.php?id=liveLiga-Dazn
-#EXTINF:-1 tvg-ID="" tvg-name="La Liga DAZN HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga DAZN HD web
-https://sfntv.xyz/ver/daznlaliga
-#EXTINF:-1 tvg-ID="" tvg-name="La Liga DAZN HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga DAZN HD web opc2
-https://sfntv.xyz/ver/daznlaliga#.Y1ZVA9LLsGg.link
 #EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6024
 #EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD opc2
@@ -233,10 +229,6 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6075
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6089
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd opc1
 http://94.177.158.190:8081/live/FORMULA1.m3u8/playlist.m3u8
-#EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd web
-https://sfntv.xyz/ver/daznf1
-#EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Deportes" tvg-name="M.FORMULA1 HD",M+ FORMULA 1 hd web opc2
-https://sfntv.xyz/ver/daznf1#.Y1ZWlEXRjXk.link
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6087
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF HD opc2
@@ -245,16 +237,8 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51461
 http://xtes.ddns.net:8080/play/KZK9VKKVtSSN5Egwk4qMO-BgrKNLnuenNAnw6tM_BJl4Do4d2xhVz-Yhifl8Gmsg/.m3u8
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD opc2
 https://bahiadeportes.com/dazn
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD web
-https://sfntv.xyz/ver/dazn1
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD web opc2
-https://sfntv.xyz/ver/dazn1#.Y1ZVU9XwF6E.link
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 2 HD
 https://bahiadeportes.com/dazn2
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 2 HD web
-https://sfntv.xyz/ver/dazn2
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 2 HD web opc2
-https://sfntv.xyz/ver/dazn2#.Y1ZVo-OeNTI.link
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="Deportes",DAZN 1 HD (ALEMAN)
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/17663
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyAtlantic.de.png" group-title="Deportes",DAZN 2 HD (ALEMAN)
