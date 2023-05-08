@@ -293,13 +293,9 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51481
 #EXTINF:-1 tvg-id="Odisea-SP" tvg-name="ODISEA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/odisea_es.png" group-title="Documentales",ODISEA
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51380
 #EXTINF:-1  tvg-id="IBERALIA" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="Documentales" tvg-name="IBERALIA ",IBERALIA
-http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51379
-#EXTINF:-1  tvg-id="IBERALIA" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="Documentales" tvg-name="IBERALIA ",IBERALIA opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51486
 #EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Documentales" tvg-name="CRIMEN+INVES",CRIME & INVESTIGATION
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6031
-#EXTINF:-1 tvg-id="" tvg-name="VIAJAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Canalviajar.png/150px-Canalviajar.png" group-title="Documentales" tvg-name="VIAJAR",VIAJAR OS
-http://compitv.info:8080/Osvaldo4936/AdYPYJ5Z4d/77395
 #EXTINF:-1 tvg-id="" tvg-name="DE CASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Casa_Club_tv_logo.svg/120px-Casa_Club_tv_logo.svg.png" group-title="Documentales" tvg-name="DE CASA",DE CASA
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51439
 #EXTINF:-1 tvg-id="" tvg-name="DE CASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Casa_Club_tv_logo.svg/120px-Casa_Club_tv_logo.svg.png" group-title="Documentales" tvg-name="DE CASA",DE CASA opc2
