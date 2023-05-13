@@ -164,7 +164,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abe3ffcd6590007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 #EXTINF:-1 tvg-id="mundotoro" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="Deportes" tvg-name="mundotoro",mundotoro
-http://tv.multitv.live:39001/Nuevoiptvw41/Iptvnuevo3628rx/117206
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51482
 #EXTINF:-1 tvg-ID="" tvg-name="La Liga TV Bar" tvg-logo=https://laligatvbar.es/twitter-image.jpg?14d36674f13ad08a" group-title="Deportes",La Liga TV Bar
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51459
 #EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://www.adslzone.net/app/uploads-adslzone.net/2019/06/movistar-laliga.jpg" group-title="Deportes",M+ La Liga HD
@@ -230,7 +230,9 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/17663
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyAtlantic.de.png" group-title="Deportes",DAZN 2 HD (ALEMAN)
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/17576
 #EXTINF:-1 tvg-id="GOL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="Deportes" tvg-name="GOL HD",GOL Tv HD
-http://tv.multitv.live:39001/Nuevoiptvw41/Iptvnuevo3628rx/153304
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6115
+#EXTINF:-1 tvg-id="GOL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="Deportes" tvg-name="GOL HD",GOL Tv HD opc2
+http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51466
 #EXTINF:-1 tvg-id="Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="Documentales" tvg-name="Pluto TV Animales",Pluto TV Animales
 https://stitcher.pluto.tv/stitch/hls/channel/600ae6a78d801e0007117d21/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
