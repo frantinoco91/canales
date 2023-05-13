@@ -171,12 +171,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8588734f80008
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
 #EXTINF:-1 tvg-id="mundotoro" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="Deportes" tvg-name="mundotoro",mundotoro
 http://tv.multitv.live:39001/Nuevoiptvw41/Iptvnuevo3628rx/117206
-#EXTINF:-1 tvg-ID="" tvg-name="La Liga DAZN HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga DAZN HD
-http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6092
-#EXTINF:-1 tvg-ID="" tvg-name="La Liga DAZN HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga DAZN HD opc2
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga TV Bar" tvg-logo=https://laligatvbar.es/twitter-image.jpg?14d36674f13ad08a" group-title="Deportes",La Liga TV Bar
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51459
-#EXTINF:-1 tvg-ID="" tvg-name="La Liga DAZN HD" tvg-logo=https://laligatvbar.es/meta-image.jpg" group-title="Deportes",La Liga DAZN HD opc3
-https://starlive.xyz/embed.php?id=liveLiga-Dazn
 #EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6024
 #EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD opc2
