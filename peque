@@ -167,9 +167,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8588734f80008
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51482
 #EXTINF:-1 tvg-ID="" tvg-name="La Liga TV Bar" tvg-logo=https://laligatvbar.es/twitter-image.jpg" group-title="Deportes",La Liga TV Bar
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51459
-#EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://www.adslzone.net/app/uploads-adslzone.net/2019/06/movistar-laliga.jpg" group-title="Deportes",M+ La Liga HD
+#EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6024
-#EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://www.adslzone.net/app/uploads-adslzone.net/2019/06/movistar-laliga.jpg" group-title="Deportes",M+ La Liga HD opc2
+#EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51465
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Deportes" tvg-name="M.LCAMPEONES HD",M+ Liga de Campeones HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6000
