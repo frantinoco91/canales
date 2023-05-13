@@ -339,8 +339,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acbed25948a0007
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51505
 #EXTINF:-1 tvg-id="MEZZO HD" tvg-name="MEZZO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Musica",MEZZO HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51390
-#EXTINF:-1 tvg-id="M. La Resistencia HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmwWDrEbuDecMISynIkbF-dVDHj9F2b3zJCdfPV8gUtMFnGOH7PRH5_6sdcn1OM53Be-LY2fk9-QmEnDMouiDVc9m4qyak3CuP2FzMYc2AfqKJZlIP-G20TU7RSxuO4g0C55cXLxfmenFqpdlDBfP2NT2njxBZa6wm_g3WDD5RXho00LJ7wZ4O8DQ8/s320/proyectox4%20(6).png" group-title="Entretenimiento",M. La Resistencia HD
-http://tv.multitv.live:39001/Nuevoiptvw41/Iptvnuevo3628rx/173970
 #EXTINF:-1 tvg-id="IGN" tvg-logo="https://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/colorLogoPNG.png" group-title="Entretenimiento",IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
 #EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
