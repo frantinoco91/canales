@@ -213,12 +213,10 @@ http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6075
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6089
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" group-title="Deportes" tvg-name="M. GOLF HD",M+ GOLF HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51461
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="Deportes",DAZN 1 HD
-http://xtes.ddns.net:8080/play/KZK9VKKVtSSN5Egwk4qMO-BgrKNLnuenNAnw6tM_BJl4Do4d2xhVz-Yhifl8Gmsg/.m3u8
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="Deportes",DAZN 1 HD opc2
-https://bahiadeportes.com/dazn
 #EXTINF:-1 tvg-id="DAZN LA LIGA" tvg-name="DAZN LA LIGA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="Deportes",DAZN LA LIGA
 https://emb.apl230.me/player/live.php?id=210571&w=100%&h=100%
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="Deportes",DAZN 1 HD
+https://sportskart.click/embed/stream-445.php
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="Deportes",DAZN 1 HD (ALEMAN)
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/17663
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="Deportes",DAZN 2 HD (ALEMAN)
