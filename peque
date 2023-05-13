@@ -173,12 +173,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8588734f80008
 http://tv.multitv.live:39001/Nuevoiptvw41/Iptvnuevo3628rx/117206
 #EXTINF:-1 tvg-ID="" tvg-name="La Liga TV Bar" tvg-logo=https://laligatvbar.es/twitter-image.jpg?14d36674f13ad08a" group-title="Deportes",La Liga TV Bar
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51459
-#EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD
+#EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://www.adslzone.net/app/uploads-adslzone.net/2019/06/movistar-laliga.jpg" group-title="Deportes",M+ La Liga HD
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/6024
-#EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD opc2
+#EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://www.adslzone.net/app/uploads-adslzone.net/2019/06/movistar-laliga.jpg" group-title="Deportes",M+ La Liga HD opc2
 http://mjidiptv.com:1997/stream-night29/telegram29012020nighty/51465
-#EXTINF:-1 tvg-ID="" tvg-name="M+ La Liga HD" tvg-logo=https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Deportes",M+ La Liga HD opc3
-https://starlive.xyz/embed.php?id=liveLiga
 #EXTINF:-1 tvg-id="MLS" tvg-logo="https://i.imgur.com/6t7x61s.png",group-title="Deportes" tvg-name="MLS",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Deportes" tvg-name="M.LCAMPEONES HD",M+ Liga de Campeones HD
