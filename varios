@@ -5,3 +5,5 @@ https://live.aionet.ir/hls/aiosport/aiosport.m3u8
 https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
 #EXTINF:-1 tvg-id="Esport3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/2560px-Esport3.svg.png" group-title="Deportes" tvg-name=Esport3 HD",Esport3 HD
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="Deportes",FOX Sports 1 HD
+http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
