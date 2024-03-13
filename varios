@@ -3,3 +3,5 @@
 https://live.aionet.ir/hls/aiosport/aiosport.m3u8
 #EXTINF:-1 tvg-id="AIO Sport 2 Champions HD" tvg-logo="https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg" group-title="Deportes" tvg-name=AIO Sport 2 Champions HD",AIO Sport 2 Champions HD
 https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
+#EXTINF:-1 tvg-id="Esport3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/2560px-Esport3.svg.png" group-title="Deportes" tvg-name=Esport3 HD",Esport3 HD
+https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
