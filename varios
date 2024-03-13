@@ -57,3 +57,25 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SolMusica.es" tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Musica",Sol Musica HD
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 tvg-id="runtime-accion-0" tvg-name="" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_accion_16x9.jpg" group-title="RUN:TIME",RUN:TIME ACCION
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+#EXTINF:-1 tvg-id="runtime-4" tvg-name="" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_es_1920x1080_0.jpg" group-title="RUN:TIME",RUN:TIME CINE Y SERIES
+https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+#EXTINF:-1 tvg-id="runtime-comedia-1" tvg-name="" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_comedia_16x9.jpg" group-title="RUN:TIME",RUN:TIME COMEDIA
+https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
+#EXTINF:-1 tvg-id="runtime-clasicos" tvg-name="" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/960x540/runtime_clasicos_16x9.jpg" group-title="RUN:TIME",RUN:TIME CLASICOS
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+#EXTINF:-1 tvg-id="runtime-crimen" tvg-name="" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_crimen_16x9.jpg" group-title="RUN:TIME",RUN:TIME CRIMEN
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/square/960x540/runtime_familia_1x1.jpg" group-title="RUN:TIME",RUN:TIME FAMILIA
+https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
+#EXTINF:-1 tvg-id="runtime-romance" tvg-name="" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_romance_16x9.jpg" group-title="RUN:TIME",RUN:TIME ROMANCE
+https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
+#EXTINF:-1 tvg-id="sangre-fria" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="RUN:TIME",RUN:TIME SANGRE FRIA
+https://ov.ottera.tv/live/master.m3u8?channel=run_rt_sf
+
+#EXTINF:-1 tvg-id="runtime-series" tvg-name="" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_series_16x9_0.jpg" group-title="",RUN:TIME SERIES (ES)
+https://run-rss.otteravision.com/run/rss/rss.m3u8
+
+#EXTINF:-1 tvg-id="runtime-thriller" tvg-name="" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_thriller_16x9.jpg" group-title="",RUN:TIME THRILLER + TERROR (ES)
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
