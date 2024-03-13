@@ -23,3 +23,5 @@ https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/m6twKCy.png" group-title="Infantiles",Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="TDT",Canal 24 Horas HD
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
