@@ -1,0 +1,5 @@
+#EXTM3U Varios
+#EXTINF:-1 tvg-id="AIO Sport 1 Champions HD" tvg-logo="https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg" group-title="Deportes" tvg-name=AIO Sport 1 Champions HD",AIO Sport 1 Champions HD
+https://live.aionet.ir/hls/aiosport/aiosport.m3u8
+#EXTINF:-1 tvg-id="AIO Sport 2 Champions HD" tvg-logo="https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg" group-title="Deportes" tvg-name=AIO Sport 2 Champions HD",AIO Sport 2 Champions HD
+https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
