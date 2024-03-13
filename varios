@@ -33,3 +33,25 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="GOLPLAY.es" tvg-logo="https://i.imgur.com/DSKLw0U.png" group-title="Deportes",GOL PLAY
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Kidz.es" tvg-logo="https://i.imgur.com/iBgsCOV.png" group-title="Infantiles",Kidz Atresmedia HD
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="TDT",La 1 HD
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="TDT",La 2 HD
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="TDT",La Sexta HD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Rakuten",Rakuten Action Movies
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Rakuten",Rakuten Comedy Movies
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Rakuten",Rakuten Drama
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Rakuten",Rakuten Family
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlight.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Rakuten",Rakuten Spotlight
+https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Top Free Spain HD
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Shows Spain HD
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
