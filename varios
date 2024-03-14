@@ -17,6 +17,12 @@ http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
 https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Deportes",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Deportes",Dubai Sports 1 HD
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Deportes",Dubai Sports 2 HD
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Deportes",FightBox HD
+http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Eventuales" tvg-name="flooxer",flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
