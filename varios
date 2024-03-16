@@ -7,6 +7,8 @@ https://live.aionet.ir/hls/aiosport/aiosport.m3u8
 https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
 #EXTINF:-1 tvg-id="PersianaSports.fr" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-Sports.png" group-title="Deportes",Champions Persiana Sports HD
 https://af.ayas.ir/hls2/persiana.m3u8
+#EXTINF:-1 tvg-id="IRIB Varzesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Irib_varzesh_tv_logo.png" group-title="Deportes",La Liga IRIB Varzesh HD
+https://af.ayas.ir/hls2/varzeshtv.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Deportes",CBS Sports Network
 http://livex.pop-app.live/s4n/poplive/ch325/playlist.m3u8
 #EXTINF:-1 tvg-id="Esport3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/2560px-Esport3.svg.png" group-title="Deportes" tvg-name=Esport3 HD",Esport3 HD
