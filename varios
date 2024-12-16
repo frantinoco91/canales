@@ -19,6 +19,16 @@ https://xyzdddd.mizhls.ru/lb/premium526/index.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium438/index.m3u8
+#EXTINF:-1 tvg-id="19c4c511eec411a53410beb5f6866378" tvg-name="La Liga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",La Liga TV
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium84/index.m3u8
+#EXTINF:-1 tvg-id="d9bec0353027ff1f921139d31bbe3541" tvg-name="Segunda Division" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/512px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Deportes",Segunda Division
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium539/index.m3u8
 #EXTINF:-1 tvg-id="TVMax.pa" tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="Deportes",TVMAX HD Champions Panama
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AIO Sport 1 Champions HD" tvg-logo="https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg" group-title="Deportes" tvg-name=AIO Sport 1 Champions HD",AIO Sport 1 Champions HD
