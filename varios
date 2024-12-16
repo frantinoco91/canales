@@ -34,12 +34,17 @@ https://xyzdddd.mizhls.ru/lb/premium438/index.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium84/index.m3u8
-#EXTINF:-1 tvg-id="b1b6180b5c2343764bcc26f598912d4b" tvg-name="La Liga TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",La Liga TV
+#EXTINF:-1 tvg-id="b1b6180b5c2343764bcc26f598912d4b" tvg-name="La Liga TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",La Liga TV 2
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium84/index.m3u8
 #EXTINF:-1 tvg-id="d9bec0353027ff1f921139d31bbe3541" tvg-name="Segunda Division" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/512px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Deportes",Segunda Division
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium539/index.m3u8
+#EXTINF:-1 tvg-id="586d5c0955096dc0969f1914d6274dcd" tvg-name="Segunda Division 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/512px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Deportes",Segunda Division 2
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
