@@ -1,4 +1,9 @@
 #EXTM3U Varios
+#EXTINF:-1 tvg-id="648d488dc14c2c960074dcba8345764e" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Deportes",DAZN 1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium445/index.m3u8
 #EXTINF:-1 tvg-id="TVMax.pa" tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="Deportes",TVMAX HD Champions Panama
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AIO Sport 1 Champions HD" tvg-logo="https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg" group-title="Deportes" tvg-name=AIO Sport 1 Champions HD",AIO Sport 1 Champions HD
