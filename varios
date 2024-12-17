@@ -12,6 +12,76 @@
         "isHost":""
         },
        {
+        "name": "MTV Classic Wiseplay",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/MTV_Classic_2021.svg",
+        "url": "https://enz.gdplayertv.to/live-tv/mtv-classic/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+       {
+        "name": "Nickelodeon Wiseplay",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg",
+        "url": "https://enz.gdplayertv.to/live-tv/nickelodeon-en-espanol-pluto-tv/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+       {
+        "name": "beIN Sports XTRA Wiseplay",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg",
+        "url": "https://enz.gdplayertv.to/live-tv/bein-sports-xtra-en-espanol/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+       {
+        "name": "Movistar Deportes Wiseplay",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",
+        "url": "https://enz.gdplayertv.to/live-tv/movistar-deportes/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+       {
+        "name": "Movistar Deportes 2 Wiseplay",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar_Deportes_2.svg",
+        "url": "https://enz.gdplayertv.to/live-tv/movistar-deportes-2/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+       {
+        "name": "Movistar Deportes 3 Wiseplay",
+        "info":"",
+        "image": "https://static.wikia.nocookie.net/logopedia/images/7/77/Movistar_Deportes_3.png",
+        "url": "https://enz.gdplayertv.to/live-tv/movistar-deportes-3/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+       {
+        "name": "Movistar Deportes 4 Wiseplay",
+        "info":"",
+        "image": "https://static.wikia.nocookie.net/logopedia/images/9/99/Deportes_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/309?cb=20220123153347&path-prefix=es",
+        "url": "https://enz.gdplayertv.to/live-tv/movistar-deportes-4/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+       {
         "name": "Dazn LaLiga Wiseplay",
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/DAZN_LaLiga_logo.svg",
@@ -97,6 +167,16 @@
         "online":"true",
         "embed": "true",
         "isHost":""
+        },
+       {
+        "name": "FOX Deportes Wiseplay",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/76px-FOX_Deportes_logo.svg.png",
+        "url": "https://enz.gdplayertv.to/live-tv/fox-deportes/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
         }
 	]
 }
@@ -150,7 +230,7 @@ https://xyzdddd.mizhls.ru/lb/premium526/index.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium438/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 4" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Deportes",Movistar Deportes 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Deportes_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/309?cb=20220123153347&path-prefix=es" group-title="Deportes",Movistar Deportes 4
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
