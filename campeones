@@ -1,6 +1,16 @@
 #EXTM3U Varios
 	[
 		{
+	 {
+        "name": "La 1 Wiseplay",
+        "info":"",
+        "image": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",
+        "url": "https://enz.gdplayertv.to/live-tv/la-1-tv/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
        {
         "name": "Antena 3 Wiseplay",
         "info":"",
@@ -82,10 +92,50 @@
         "isHost":""
         },
        {
+        "name": "Movistar Liga de Campeones Wiseplay",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg",
+        "url": "https://enz.gdplayertv.to/live-tv/movistar-liga-de-campeones/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+	{
+        "name": "LaLiga TV Wiseplay",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png",
+        "url": "https://enz.gdplayertv.to/live-tv/movistar-laliga/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },	
+        {
         "name": "Dazn LaLiga Wiseplay",
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/DAZN_LaLiga_logo.svg",
         "url": "https://enz.gdplayertv.to/live-tv/dazn-laliga/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Segunda Division Wiseplay",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/512px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
+        "url": "https://enz.gdplayertv.to/live-tv/laliga-hypermotion/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+	{
+        "name": "Segunda Division 2 Wiseplay",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/512px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",
+        "url": "https://enz.gdplayertv.to/live-tv/laliga-tv/?embed=1",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
         "embed": "true",
