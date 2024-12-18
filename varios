@@ -130,6 +130,14 @@ https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Deportes",FightBox HD
 http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="Canal Cocina HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Canal_Cocina.svg" group-title="DOCUMENTALES",Canal Cocina HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178055
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="Canal Cocina FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Canal_Cocina.svg" group-title="DOCUMENTALES",Canal Cocina FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178056
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="DeCasa HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/decasa.jpg" group-title="DOCUMENTALES",DeCasa HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178057
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="DeCasa FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/decasa.jpg" group-title="DOCUMENTALES",DeCasa FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178058
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Eventuales" tvg-name="flooxer",flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
