@@ -178,6 +178,10 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178056
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178057
 #EXTINF:-1 tvg-id="Canal Decasa" tvg-name="DeCasa FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/decasa.jpg" group-title="Documentales",DeCasa FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178058
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NatGeo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" group-title="Documentales",NatGeo HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178183
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NatGeo FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" group-title="Documentales",NatGeo FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178184
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Eventuales" tvg-name="flooxer",flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
