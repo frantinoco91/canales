@@ -222,12 +222,42 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178118
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178119
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TCM_logo.svg" group-title="M. Pelis y series",TCM FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178120
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SyFy SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="M. Pelis y series",SyFy SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178121
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SyFy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="M. Pelis y series",SyFy HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178122
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="M. Pelis y series",SYFY FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178123
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="Calle 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dXt3nP36iLeN5De7VwkyAxEDj9aVRW43u4AGrlczjGBy5ZkN&s" group-title="M. Pelis y series",Calle 13 HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178125
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="Calle 13 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dXt3nP36iLeN5De7VwkyAxEDj9aVRW43u4AGrlczjGBy5ZkN&s" group-title="M. Pelis y series",Calle 13 FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178126
+#EXTINF:-1 tvg-id="COSMO" tvg-name="Cosmo SD" tvg-logo="https://www.latribunadealbacete.es/media/IMG/2024/5EEC18F1-A0C2-975E-A892DCBCA1590E20.webp" group-title="M. Pelis y series",Cosmo SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178127
+#EXTINF:-1 tvg-id="COSMO" tvg-name="Cosmo HD" tvg-logo="https://www.latribunadealbacete.es/media/IMG/2024/5EEC18F1-A0C2-975E-A892DCBCA1590E20.webp" group-title="M. Pelis y series",Cosmo HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178128
+#EXTINF:-1 tvg-id="COSMO" tvg-name="Cosmo FHD" tvg-logo="https://www.latribunadealbacete.es/media/IMG/2024/5EEC18F1-A0C2-975E-A892DCBCA1590E20.webp" group-title="M. Pelis y series",Cosmo FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178129
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="M. Pelis y series",Comedy Central HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178131
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="M. Pelis y series",Comedy Central FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178132
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="M. Pelis y series",Hollywood SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178133
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="M. Pelis y series",Hollywood HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178134
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="M. Pelis y series",Hollywood FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178135
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="TDT",Teledeporte HD
 https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT" tvg-name="Teledeporte",Teledeporte HD opc2
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT" tvg-name="Teledeporte",Teledeporte HD opc3
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg" group-title="TDT",Paramount Channel SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178136
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg" group-title="TDT",Paramount Channel HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178137
 #EXTINF:-1 tvg-id="Atreseries" tvg-name="A3Series HD" tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B/58.jpg" group-title="TDT",A3Series HD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178104
 #EXTINF:-1 tvg-id="Atreseries" tvg-name="A3Series FHD" tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B/58.jpg" group-title="TDT",A3Series FHD
