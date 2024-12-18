@@ -252,6 +252,24 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178133
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178134
 #EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="M. Pelis y series",Hollywood FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178135
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV España sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" group-title="M. Pelis y series",Warner TV España sd
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178145
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV España hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" group-title="M. Pelis y series",Warner TV España hd
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178146
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV España FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" group-title="M. Pelis y series",Warner TV España FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178147
+#EXTINF:-1 tvg-id="Sundance" tvg-name="Sundance SD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042018/untitled-1_85.png" group-title="M. Pelis y series",Sundance SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178148
+#EXTINF:-1 tvg-id="Sundance" tvg-name="Sundance HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042018/untitled-1_85.png" group-title="M. Pelis y series",Sundance HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178149
+#EXTINF:-1 tvg-id="Sundance" tvg-name="Sundance FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042018/untitled-1_85.png" group-title="M. Pelis y series",Sundance FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178150
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="https://scontent.fsvq4-1.fna.fbcdn.net/v/t39.30808-6/358722752_736075215195040_1079776448343146952_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=6qklZhNidDAQ7kNvgEneObj&_nc_zt=23&_nc_ht=scontent.fsvq4-1.fna&_nc_gid=ALD6TXtZ1FOlofxGRcgdZiW&oh=00_AYDIb6DeQN3S8kmP2wTSReX5UFeAwrp4uL08WtRVF1RncA&oe=6768EECA" group-title="M. Pelis y series",SOMOS HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178151
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM SD" tvg-logo="https://scontent.fsvq4-1.fna.fbcdn.net/v/t39.30808-6/358684413_774138614719770_1980468404539330234_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=VnJmzRTzfOQQ7kNvgGEBfw_&_nc_zt=23&_nc_ht=scontent.fsvq4-1.fna&_nc_gid=AQQ4SKtRFWvHwnyndgUf6rR&oh=00_AYC1n_I7ocyDaaeTe3QPBlH1ydKYrApaZsWPD3pDT2NJyg&oe=6768F914" group-title="M. Pelis y series",XTRM SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178152
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD" tvg-logo="https://scontent.fsvq4-1.fna.fbcdn.net/v/t39.30808-6/358684413_774138614719770_1980468404539330234_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=VnJmzRTzfOQQ7kNvgGEBfw_&_nc_zt=23&_nc_ht=scontent.fsvq4-1.fna&_nc_gid=AQQ4SKtRFWvHwnyndgUf6rR&oh=00_AYC1n_I7ocyDaaeTe3QPBlH1ydKYrApaZsWPD3pDT2NJyg&oe=6768F914" group-title="M. Pelis y series",XTRM HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178153
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="TDT",Teledeporte HD
 https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT" tvg-name="Teledeporte",Teledeporte HD opc2
