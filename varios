@@ -294,6 +294,12 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178065
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178062
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png" group-title="Infantiles",Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Boing" tvg-name="Enfamilia" tvg-logo="https://www.formulatv.com/images/cadenas/logo_enfamilia.svg" group-title="Infantiles",Enfamilia
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178162
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nick_Jr._logo_2023.webp" group-title="Infantiles",Nick JR HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178163
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nick_Jr._logo_2023.webp" group-title="Infantiles",Nick JR
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178164
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="TDT",24 Horas HD
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="DKISS" tvg-name="Dkiss SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/DKISS_2019_logo.svg" group-title="TDT",DKISS SD
