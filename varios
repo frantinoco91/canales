@@ -239,11 +239,15 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178038
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178039
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="TDT" tvg-name="TRECE",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LASEXTA(src01).es" tvg-name="La Sexta" tvg-logo="https://imgur.com/aKV5voq" group-title="TDT",La Sexta
+#EXTINF:-1 tvg-id="LASEXTA(src01).es" tvg-name="La Sexta" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="TDT",La Sexta
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium534/index.m3u8
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta SD" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="TDT",La Sexta SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178045
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta HD" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="TDT",La Sexta HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178046
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="" group-title="Rakuten",Rakuten Action Movies
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="" group-title="Rakuten",Rakuten Comedy Movies
