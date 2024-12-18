@@ -214,6 +214,12 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178044
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/181913
 #EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/512px-Energy.svg.png" group-title="TDT",Energy
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Nova.svg" group-title="TDT",Nova FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178052
+#EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Divinity.svg" group-title="TDT",Divinity SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178053
+#EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Divinity.svg" group-title="TDT",Divinity HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178054
 #EXTINF:-1 tvg-id="GOLPLAY(src01).es" tvg-name="GOL PLAY" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="TDT",GOL PLAY
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
