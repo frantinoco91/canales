@@ -320,8 +320,14 @@ https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalpakapaka/picture?width=200&height=200" group-title="Infantiles" tvg-name="Paka Paka",Paka Paka
-https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Disney_channel_hd.png" group-title="Infantiles",Disney Channel
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178169
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby Tv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIDJjM-45d01Ksygp3eLPkRQFCxc2B_S-pg3qyrrScCaapsy9fxSb72jP7A-ebA3QO9b3Eby6IxN7KGJ6v6GunWV5y5SaeJDjq7jTKAv4zm_bkIf4iNxUrTOzq7yOXgJmz1RYt7KKOtQM/s500/babytv-2017.png" group-title="Infantiles",Baby Tv
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178174
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="DreamWorks HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/DreamWorks_Animation_2016.svg/revision/latest?cb=20201205013126" group-title="Infantiles",DreamWorks HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178177
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="DreamWorks FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/DreamWorks_Animation_2016.svg/revision/latest?cb=20201205013126" group-title="Infantiles",DreamWorks FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178178
 #EXTINF:-1 tvg-id="CUATRO(src01).es" tvg-name="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/2560px-Logotipo_de_Cuatro.svg.png" group-title="TDT",Cuatro
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
