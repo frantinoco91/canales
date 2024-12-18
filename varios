@@ -42,6 +42,8 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178094
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178095
 #EXTINF:-1 tvg-id="M+ Series" tvg-name="M. Series FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg" group-title="Movistar",M. Series FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178096
+#EXTINF:-1 tvg-id="M+ Suspense" tvg-name="M. Suspense FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg" group-title="Movistar",M. Suspense FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178099
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="#Vamos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="Deportes",#Vamos
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -208,12 +210,28 @@ https://ztnr.rtve.es/ztnr/6909845.m3u8
 https://ztnr.rtve.es/ztnr/6987938.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="RTVE La promesa",RTVE La promesa
 https://ztnr.rtve.es/ztnr/2472039.m3u8
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox SD" tvg-logo="https://www.marketersbyadlatina.com/uploads/img/-5774-Star-Channel.jpg" group-title="M. Pelis y series",Star Channel SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178106
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox HD" tvg-logo="https://www.marketersbyadlatina.com/uploads/img/-5774-Star-Channel.jpg" group-title="M. Pelis y series",Star Channel HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178107
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="M. Pelis y series",AXN SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178112
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD" tvg-logo="http://discusfish.xyz:25461/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="M. Pelis y series",TCM SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178118
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TCM_logo.svg" group-title="M. Pelis y series",TCM HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178119
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TCM_logo.svg" group-title="M. Pelis y series",TCM FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178120
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="TDT",Teledeporte HD
 https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT" tvg-name="Teledeporte",Teledeporte HD opc2
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT" tvg-name="Teledeporte",Teledeporte HD opc3
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3Series HD" tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B/58.jpg" group-title="TDT",A3Series HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178104
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3Series FHD" tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B/58.jpg" group-title="TDT",A3Series FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178105
 #EXTINF:-1 tvg-id="Neox" tvg-name="Neox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Neox_2023_logo.svg" group-title="TDT",Neox HD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178063
 #EXTINF:-1 tvg-id="Neox" tvg-name="Neox FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Neox_2023_logo.svg" group-title="TDT",Neox FHD
