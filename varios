@@ -176,6 +176,12 @@ https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT" tvg-name="Teledeporte",Teledeporte HD opc3
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+#EXTINF:-1 tvg-id="Neox" tvg-name="Neox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Neox_2023_logo.svg" group-title="TDT",Neox HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178063
+#EXTINF:-1 tvg-id="Neox" tvg-name="Neox FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Neox_2023_logo.svg" group-title="TDT",Neox FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178064
+#EXTINF:-1 tvg-id="Ten" tvg-name="TEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/512px-TEN_2024_Logo.svg.png" group-title="TDT",TEN
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178065
 #EXTINF:-1 tvg-id="BeMad.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png" group-title="TDT",Be Mad HD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178062
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png" group-title="Infantiles",Boing
@@ -256,7 +262,7 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178038
 #EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3 FHD" tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="TDT",Antena 3 FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178039
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="TDT" tvg-name="TRECE",TRECE
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178066
 #EXTINF:-1 tvg-id="LASEXTA(src01).es" tvg-name="La Sexta" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="TDT",La Sexta
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
