@@ -4,6 +4,16 @@
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium437/index.m3u8
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M. Originales SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg" group-title="Movistar",M. Originales SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178070
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M. Originales FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg" group-title="Movistar",M. Originales FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178072
+#EXTINF:-1 tvg-id="M+ Acción" tvg-name="M. Accion SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg" group-title="MOVISTAR",M. Accion SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178073
+#EXTINF:-1 tvg-id="M+ Acción" tvg-name="M. Accion FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg" group-title="MOVISTAR",M. Accion FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178075
+#EXTINF:-1 tvg-id="M+ Cine" tvg-name="M. Cine SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg" group-title="MOVISTAR",M. Cine SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178076
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="#Vamos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="Deportes",#Vamos
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -130,13 +140,13 @@ https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Deportes",FightBox HD
 http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="Canal Cocina HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Canal_Cocina.svg" group-title="DOCUMENTALES",Canal Cocina HD
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="Canal Cocina HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Canal_Cocina.svg" group-title="Documentales",Canal Cocina HD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178055
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="Canal Cocina FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Canal_Cocina.svg" group-title="DOCUMENTALES",Canal Cocina FHD
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="Canal Cocina FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Canal_Cocina.svg" group-title="Documentales",Canal Cocina FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178056
-#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="DeCasa HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/decasa.jpg" group-title="DOCUMENTALES",DeCasa HD
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="DeCasa HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/decasa.jpg" group-title="Documentales",DeCasa HD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178057
-#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="DeCasa FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/decasa.jpg" group-title="DOCUMENTALES",DeCasa FHD
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="DeCasa FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/decasa.jpg" group-title="Documentales",DeCasa FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178058
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Eventuales" tvg-name="flooxer",flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
