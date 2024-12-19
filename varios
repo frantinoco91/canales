@@ -44,6 +44,10 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178095
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178096
 #EXTINF:-1 tvg-id="M+ Suspense" tvg-name="M. Suspense FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg" group-title="Movistar",M. Suspense FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178099
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="Movistar La Resistencia SD" tvg-logo="https://www.formulatv.com/images/cadenas/logo_la-resistencia.svg" group-title="Movistar",Movistar La Resistencia SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178189
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="Movistar La Resistencia HD" tvg-logo="https://www.formulatv.com/images/cadenas/logo_la-resistencia.svg" group-title="Movistar",Movistar La Resistencia HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178191
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="#Vamos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="Deportes",#Vamos
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -182,6 +186,16 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178058
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178183
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="NatGeo FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" group-title="Documentales",NatGeo FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178184
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NatGeo Wild HD" tvg-logo="https://www.logo.wine/a/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.svg" group-title="Documentales",NatGeo Wild HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/193870
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NatGeo  Wild FHD" tvg-logo="https://www.logo.wine/a/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.svg" group-title="Documentales",NatGeo  Wild FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178185
+#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea SD" tvg-logo="https://scontent.fsvq4-1.fna.fbcdn.net/v/t39.30808-6/347794624_225529240195114_4029126256950082761_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=JK8lgvU-45UQ7kNvgH-VQlF&_nc_zt=23&_nc_ht=scontent.fsvq4-1.fna&_nc_gid=AAweanZuPAaoufeph0xr0CN&oh=00_AYDvR0LmCZPtkjFJiLDQBzsNW4a00gmMHRVTWEK8m3K0Yw&oe=6769ECEF" group-title="Documentales",Odisea SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178186
+#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea HD" tvg-logo="https://scontent.fsvq4-1.fna.fbcdn.net/v/t39.30808-6/347794624_225529240195114_4029126256950082761_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=JK8lgvU-45UQ7kNvgH-VQlF&_nc_zt=23&_nc_ht=scontent.fsvq4-1.fna&_nc_gid=AAweanZuPAaoufeph0xr0CN&oh=00_AYDvR0LmCZPtkjFJiLDQBzsNW4a00gmMHRVTWEK8m3K0Yw&oe=6769ECEF" group-title="Documentales",Odisea HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178187
+#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea FHD" tvg-logo="https://scontent.fsvq4-1.fna.fbcdn.net/v/t39.30808-6/347794624_225529240195114_4029126256950082761_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=JK8lgvU-45UQ7kNvgH-VQlF&_nc_zt=23&_nc_ht=scontent.fsvq4-1.fna&_nc_gid=AAweanZuPAaoufeph0xr0CN&oh=00_AYDvR0LmCZPtkjFJiLDQBzsNW4a00gmMHRVTWEK8m3K0Yw&oe=6769ECEF" group-title="Documentales",Odisea FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178188
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Eventuales" tvg-name="flooxer",flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
