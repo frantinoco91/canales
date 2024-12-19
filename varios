@@ -222,6 +222,8 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178214
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178216
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="Iberalia HD" tvg-logo="https://scontent.fsvq4-1.fna.fbcdn.net/v/t1.6435-9/94219325_1384266385114244_3548755292831350784_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=kZqROU0ax74Q7kNvgEvdg0t&_nc_zt=23&_nc_ht=scontent.fsvq4-1.fna&_nc_gid=A1lyPaijTuyX4Vrk7ezgtrG&oh=00_AYAV7OybpE5Y-pGMkMspnqIK0euJTPoNIQSm8s55gi_Khw&oe=678B82D1" group-title="Documentales",Iberalia HD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178217
+#EXTINF:-1 tvg-id="Cazavision" tvg-name="Cazavision TV" tvg-logo="https://comunidad.orange.es/t5/image/serverpage/image-id/5511i5C5A7DFCB3A9BE9F/image-size/small?v=mpbl-1&px=-1" group-title="Documentales",Cazavision TV
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178219
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Eventuales" tvg-name="flooxer",flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
@@ -314,6 +316,8 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178151
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178152
 #EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD" tvg-logo="https://scontent.fsvq4-1.fna.fbcdn.net/v/t39.30808-6/358684413_774138614719770_1980468404539330234_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=VnJmzRTzfOQQ7kNvgGEBfw_&_nc_zt=23&_nc_ht=scontent.fsvq4-1.fna&_nc_gid=AQQ4SKtRFWvHwnyndgUf6rR&oh=00_AYC1n_I7ocyDaaeTe3QPBlH1ydKYrApaZsWPD3pDT2NJyg&oe=6768F914" group-title="M. Pelis y series",XTRM HD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178153
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK FHD" tvg-logo="https://www.creativefabrica.com/wp-content/uploads/2021/02/15/dark-type-logo-template-Graphics-8624704-1-1-580x387.jpg" group-title="M. Pelis y series",DARK FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178220
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="TDT",Teledeporte HD
 https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT" tvg-name="Teledeporte",Teledeporte HD opc2
