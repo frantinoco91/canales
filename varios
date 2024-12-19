@@ -190,12 +190,26 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178184
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/193870
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NatGeo  Wild FHD" tvg-logo="https://www.logo.wine/a/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.svg" group-title="Documentales",NatGeo  Wild FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178185
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="Crimen + Investigacion SD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/crimen-investigacion.jpg" group-title="Documentales",Crimen + Investigacion SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178192
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="Crimen + Investigacion FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/crimen-investigacion.jpg" group-title="Documentales",Crimen + Investigacion FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178194
 #EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea SD" tvg-logo="https://scontent.fsvq4-1.fna.fbcdn.net/v/t39.30808-6/347794624_225529240195114_4029126256950082761_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=JK8lgvU-45UQ7kNvgH-VQlF&_nc_zt=23&_nc_ht=scontent.fsvq4-1.fna&_nc_gid=AAweanZuPAaoufeph0xr0CN&oh=00_AYDvR0LmCZPtkjFJiLDQBzsNW4a00gmMHRVTWEK8m3K0Yw&oe=6769ECEF" group-title="Documentales",Odisea SD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178186
 #EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea HD" tvg-logo="https://scontent.fsvq4-1.fna.fbcdn.net/v/t39.30808-6/347794624_225529240195114_4029126256950082761_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=JK8lgvU-45UQ7kNvgH-VQlF&_nc_zt=23&_nc_ht=scontent.fsvq4-1.fna&_nc_gid=AAweanZuPAaoufeph0xr0CN&oh=00_AYDvR0LmCZPtkjFJiLDQBzsNW4a00gmMHRVTWEK8m3K0Yw&oe=6769ECEF" group-title="Documentales",Odisea HD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178187
 #EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea FHD" tvg-logo="https://scontent.fsvq4-1.fna.fbcdn.net/v/t39.30808-6/347794624_225529240195114_4029126256950082761_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=JK8lgvU-45UQ7kNvgH-VQlF&_nc_zt=23&_nc_ht=scontent.fsvq4-1.fna&_nc_gid=AAweanZuPAaoufeph0xr0CN&oh=00_AYDvR0LmCZPtkjFJiLDQBzsNW4a00gmMHRVTWEK8m3K0Yw&oe=6769ECEF" group-title="Documentales",Odisea FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178188
+#EXTINF:-1 tvg-id="Historia" tvg-name="Historia SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Historia_2022_logo.webp" group-title="Documentales",Historia SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178195
+#EXTINF:-1 tvg-id="Historia" tvg-name="Historia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Historia_2022_logo.webp" group-title="Documentales",Historia HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178196
+#EXTINF:-1 tvg-id="Historia" tvg-name="Historia FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Historia_2022_logo.webp" group-title="Documentales",Historia FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178197
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery SD" tvg-logo="https://brandemia.org/sites/default/files/inline/images/discovery_logo_despues.jpg" group-title="Documentales",Discovery SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178198
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery FHD" tvg-logo="https://brandemia.org/sites/default/files/inline/images/discovery_logo_despues.jpg" group-title="Documentales",Discovery FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178200
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Eventuales" tvg-name="flooxer",flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
@@ -368,8 +382,8 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178043
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178044
 #EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Telecinco.svg" group-title="TDT",Telecinco FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/181913
-#EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/512px-Energy.svg.png" group-title="TDT",Energy
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Energy" tvg-name="Energy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/512px-Energy.svg.png" group-title="TDT",Energy HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178202
 #EXTINF:-1 tvg-id="Nova" tvg-name="Nova FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Nova.svg" group-title="TDT",Nova FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178052
 #EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Divinity.svg" group-title="TDT",Divinity SD
