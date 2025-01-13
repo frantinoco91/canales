@@ -175,6 +175,12 @@ https://ztnr.rtve.es/ztnr/6909845.m3u8
 https://ztnr.rtve.es/ztnr/6987938.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="RTVE La promesa",RTVE La promesa
 https://ztnr.rtve.es/ztnr/2472039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime FHD" tvg-logo="" group-title="M. Pelis y series",Showtime FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/468770
+#EXTINF:-1 tvg-id="" tvg-name="Showtime HD" tvg-logo="" group-title="M. Pelis y series",Showtime HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/468771
+#EXTINF:-1 tvg-id="" tvg-name="Showtime SD" tvg-logo="" group-title="M. Pelis y series",Showtime SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/468772
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/05/AMC-TV-Logo.png" group-title="M. Pelis y series",AMC SD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178142
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/05/AMC-TV-Logo.png" group-title="M. Pelis y series",AMC HD
