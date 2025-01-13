@@ -253,6 +253,8 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178062
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="Boing" tvg-name="Enfamilia" tvg-logo="https://www.formulatv.com/images/cadenas/logo_enfamilia.svg" group-title="Infantiles",Enfamilia
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178162
+#EXTINF:-1 tvg-id="Enfamilia" tvg-name="ES: ENFAMILIA" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PANDA" group-title="Infantiles",ES: ENFAMILIA HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/372095
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nick_Jr._logo_2023.webp" group-title="Infantiles",Nick JR HD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178163
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nick_Jr._logo_2023.webp" group-title="Infantiles",Nick JR
