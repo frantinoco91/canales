@@ -221,6 +221,8 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178152
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178153
 #EXTINF:-1 tvg-id="DARK" tvg-name="DARK FHD" tvg-logo="https://www.creativefabrica.com/wp-content/uploads/2021/02/15/dark-type-logo-template-Graphics-8624704-1-1-580x387.jpg" group-title="M. Pelis y series",DARK FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178220
+#EXTINF:-1 tvg-id="" tvg-name="ES: Star TVE" tvg-logo="http://titanicos.net:8080/images/481dd172f2967d63bb42ae051dc95f73.png" group-title="TDT",Star TVE
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/209420
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="TDT",Teledeporte HD
 https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT" tvg-name="Teledeporte",Teledeporte HD opc2
@@ -343,6 +345,8 @@ https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Rakuten",Rakuten TV Shows Spain HD
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="ES: MTV 00S" tvg-logo="" group-title="Musica",MTV 00S
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/210563
 #EXTINF:-1 tvg-id="SolMusica.es" tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Musica",Sol Musica HD
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" group-title="Musica" tvg-name="La Urban TV España",La Urban TV España
