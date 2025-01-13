@@ -69,6 +69,8 @@ https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Deportes",FightBox HD
 http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="ES: BUEN VIAJE SD" tvg-logo="" group-title="Documentales",BUEN VIAJE SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/375651
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC Crime HD" tvg-logo="" group-title="Documentales",AMC Crime HD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/219262
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-name="Canal Cocina HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Canal_Cocina.svg" group-title="Documentales",Canal Cocina HD
@@ -225,6 +227,10 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178153
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178220
 #EXTINF:-1 tvg-id="" tvg-name="ES: Star TVE" tvg-logo="http://titanicos.net:8080/images/481dd172f2967d63bb42ae051dc95f73.png" group-title="TDT",Star TVE
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/209420
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: BOMCINE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1200px-Logo-bom.svg.png" group-title="TDT",BOMCINE SD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/375652
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: BOMCINE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1200px-Logo-bom.svg.png" group-title="TDT",BOMCINE HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/375653
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="TDT",Teledeporte HD
 https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT" tvg-name="Teledeporte",Teledeporte HD opc2
