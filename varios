@@ -135,7 +135,12 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/151671
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/151672
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="Deportes",MOVISTAR LIGA CAMPEONES 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/151673
-
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT" tvg-logo="http://eter-picons.one/picons/Eurosport_1.png" group-title="Deportes",EUROSPORT
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/151677
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT FULL HD" tvg-logo="http://eter-picons.one/picons/Eurosport_1.png" group-title="Deportes",EUROSPORT FULL HD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/151675
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport  2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes",Eurosport  2
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/151674
 #EXTINF:-1 tvg-id="TVMax.pa" tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="Deportes",TVMAX HD Champions Panama
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AIO Sport 1 Champions HD" tvg-logo="https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg" group-title="Deportes" tvg-name=AIO Sport 1 Champions HD",AIO Sport 1 Champions HD
