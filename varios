@@ -227,6 +227,8 @@ https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT" tvg-name="Teledeporte",Teledeporte HD opc3
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL TV FHD" tvg-logo="http://hudini.site:8080/images/6fab318601e89099a3df0647771838bd.png" group-title="TDT",GOL TV FHD
+http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/151685
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg" group-title="TDT",Paramount Channel SD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178136
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg" group-title="TDT",Paramount Channel HD
