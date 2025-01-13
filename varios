@@ -1,9 +1,4 @@
 #EXTM3U Varios
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="#0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/0_por_Movistar_Plus%2B_2022_logo.svg" group-title="Movistar",#0
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium437/index.m3u8
 #EXTINF:-1 tvg-id="M+ Originales" tvg-name="M. Originales SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg" group-title="Movistar",M. Originales SD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178070
 #EXTINF:-1 tvg-id="M+ Originales" tvg-name="M. Originales FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg" group-title="Movistar",M. Originales FHD
@@ -48,106 +43,6 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178099
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178189
 #EXTINF:-1 tvg-id="La Resistencia" tvg-name="Movistar La Resistencia HD" tvg-logo="https://www.formulatv.com/images/cadenas/logo_la-resistencia.svg" group-title="Movistar",Movistar La Resistencia HD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178191
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="#Vamos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="Deportes",#Vamos
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium521/index.m3u8
-#EXTINF:-1 tvg-id="648d488dc14c2c960074dcba8345764e" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.svg.png" group-title="Deportes",DAZN 1
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium445/index.m3u8
-#EXTINF:-1 tvg-id="3faff1237e4b0ccc56d83b55ee4f64c6" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/441px-DAZN_2.svg.png?20220702044301" group-title="Deportes",DAZN 2
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium446/index.m3u8
-#EXTINF:-1 tvg-id="8805f2395a5dd0bc25bba4d51c70c630" tvg-name="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="Deportes",DAZN 3
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium447/index.m3u8
-#EXTINF:-1 tvg-id="DAZN4(src01).es" tvg-name="DAZN 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest?cb=20220119162341" group-title="Deportes",DAZN 4
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium448/index.m3u8
-#EXTINF:-1 tvg-id="DAZNF1(src01).es" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/DAZN_F1_logo.svg" group-title="Deportes",DAZN F1
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium537/index.m3u8
-#EXTINF:-1 tvg-id="3f70193b05f2aad81b30751e103f940e" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Deportes",Movistar Deportes
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium436/index.m3u8
-#EXTINF:-1 tvg-id="82893d61d292646dec9422be49af7040" tvg-name="Movistar Deportes 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar_Deportes_2.svg" group-title="Deportes",Movistar Deportes 2
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium526/index.m3u8
-#EXTINF:-1 tvg-id="1d9d801604dc691a93793f2a25f0a5db" tvg-name="Movistar Deportes 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Movistar_Deportes_3.png" group-title="Deportes",Movistar Deportes 3
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium438/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Deportes_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/309?cb=20220123153347&path-prefix=es" group-title="Deportes",Movistar Deportes 4
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium527/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1(src01).rs" tvg-name="EuroSport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_1_Logo_2015.svg" group-title="Deportes",EuroSport 1
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium524/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2(src01).rs" tvg-name="EuroSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Eurosport_2_Logo_2015.svg" group-title="Deportes",EuroSport 2
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium525/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/800px-Movistar_Golf.svg.png" group-title="Deportes",Movistar Golf
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium528/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga de Campeones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg" group-title="Deportes",Movistar Liga de Campeones
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium435/index.m3u8
-#EXTINF:-1 tvg-id="19c4c511eec411a53410beb5f6866378" tvg-name="La Liga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",La Liga TV
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium84/index.m3u8
-#EXTINF:-1 tvg-id="b1b6180b5c2343764bcc26f598912d4b" tvg-name="La Liga TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",La Liga TV 2
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium84/index.m3u8
-#EXTINF:-1 tvg-id="DAZNLALIGA(src01).es" tvg-name="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/DAZN_LaLiga_logo.svg" group-title="Deportes",DAZN LaLiga
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium538/index.m3u8
-#EXTINF:-1 tvg-id="DAZNLALIGA2(src01).es" tvg-name="DAZN LaLiga 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/DAZN_LaLiga_logo.svg" group-title="Deportes",DAZN LaLiga 2
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium43/index.m3u8
-#EXTINF:-1 tvg-id="d9bec0353027ff1f921139d31bbe3541" tvg-name="Segunda Division" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/512px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Deportes",Segunda Division
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium539/index.m3u8
-#EXTINF:-1 tvg-id="586d5c0955096dc0969f1914d6274dcd" tvg-name="Segunda Division 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/512px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Deportes",Segunda Division 2
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium539/index.m3u8
 #EXTINF:-1 tvg-id="TVMax.pa" tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="Deportes",TVMAX HD Champions Panama
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AIO Sport 1 Champions HD" tvg-logo="https://i.pinimg.com/originals/79/24/ec/7924eccaf6779819242591fab54021e5.jpg" group-title="Deportes" tvg-name=AIO Sport 1 Champions HD",AIO Sport 1 Champions HD
@@ -388,22 +283,12 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178174
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178177
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="DreamWorks FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/DreamWorks_Animation_2016.svg/revision/latest?cb=20201205013126" group-title="Infantiles",DreamWorks FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178178
-#EXTINF:-1 tvg-id="CUATRO(src01).es" tvg-name="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/2560px-Logotipo_de_Cuatro.svg.png" group-title="TDT",Cuatro
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium535/index.m3u8
 #EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/2560px-Logotipo_de_Cuatro.svg.png" group-title="TDT",Cuatro SD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178040
 #EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/2560px-Logotipo_de_Cuatro.svg.png" group-title="TDT",Cuatro HD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178041
 #EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/2560px-Logotipo_de_Cuatro.svg.png" group-title="TDT",Cuatro FHD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178042
-#EXTINF:-1 tvg-id="TELECINCO(src01).es" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Telecinco.svg" group-title="TDT",Telecinco
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium532/index.m3u8
 #EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Telecinco.svg" group-title="TDT",Telecinco SD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178043
 #EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Telecinco.svg" group-title="TDT",Telecinco HD
@@ -418,11 +303,6 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178052
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178053
 #EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Divinity.svg" group-title="TDT",Divinity HD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178054
-#EXTINF:-1 tvg-id="GOLPLAY(src01).es" tvg-name="GOL PLAY" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="TDT",GOL PLAY
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium530/index.m3u8
 #EXTINF:-1 tvg-id="Kidz.es" tvg-logo="https://i.imgur.com/iBgsCOV.png" group-title="TDT",Kidz Atresmedia HD
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="TDT",La 1 HD
@@ -443,11 +323,6 @@ http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178038
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178039
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="TDT" tvg-name="TRECE",TRECE
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178066
-#EXTINF:-1 tvg-id="LASEXTA(src01).es" tvg-name="La Sexta" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="TDT",La Sexta
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium534/index.m3u8
 #EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta SD" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="TDT",La Sexta SD
 http://mbsderlo.site:2082/Joseveinew2/5HkYPNWwoldnew/178045
 #EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta HD" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="TDT",La Sexta HD
